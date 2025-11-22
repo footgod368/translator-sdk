@@ -142,7 +142,7 @@ type rawYouDaoResponse struct {
 			Ukphone      string        `json:"ukphone"`
 			Ukspeech     string        `json:"ukspeech"`
 			Trs          []Translation `json:"trs"`
-			Wfs          []WordFrom    `json:"wfs"`
+			Wfs          []wordFrom    `json:"wfs"`
 			ReturnPhrase struct {
 				L struct {
 					I string `json:"i"`
@@ -188,7 +188,7 @@ type rawYouDaoResponse struct {
 	} `json:"ee"`
 	BlngSentsPart struct {
 		SentenceCount int              `json:"sentence-count"`
-		SentencePair  []EgSentencePair `json:"sentence-pair"`
+		SentencePair  []egSentencePair `json:"sentence-pair"`
 		More          string           `json:"more"`
 		TrsClassify   []struct {
 			Proportion string `json:"proportion"`
@@ -358,7 +358,7 @@ type rawYouDaoResponse struct {
 				Url    string `json:"url"`
 				Desc   string `json:"desc"`
 			} `json:"en"`
-			Zh []EtymologyZh `json:"zh"`
+			Zh []etymologyZh `json:"zh"`
 		} `json:"etyms"`
 		Word string `json:"word"`
 	} `json:"etym"`
@@ -467,14 +467,14 @@ type webTranslation struct {
 	} `json:"trans"`
 }
 
-type WordFrom struct {
+type wordFrom struct {
 	Wf struct {
 		Name  string `json:"name"`
 		Value string `json:"value"`
 	} `json:"wf"`
 }
 
-type EtymologyZh struct {
+type etymologyZh struct {
 	Source string `json:"source"`
 	Word   string `json:"word"`
 	Value  string `json:"value"`
@@ -482,7 +482,7 @@ type EtymologyZh struct {
 	Desc   string `json:"desc"`
 }
 
-type EgSentencePair struct {
+type egSentencePair struct {
 	Sentence            string `json:"sentence"`
 	SentenceEng         string `json:"sentence-eng"`
 	SentenceTranslation string `json:"sentence-translation"`

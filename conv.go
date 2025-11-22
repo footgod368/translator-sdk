@@ -17,11 +17,11 @@ func convYouDaoResp(youDaoResp *rawYouDaoResponse) (*TranslateResponse, error) {
 		Usphone:         wordData.Usphone,
 		Translations:    gslice.Map(wordData.Trs, func(tr Translation) string { return tr.Tr[0].L.I[0] }),
 		WebTranslations: convWebTranslations(youDaoResp.WebTrans.WebTranslation),
-		WordForms:       gslice.Map(wordData.Wfs, func(wf WordFrom) string { return wf.Wf.Name + wf.Wf.Value }),
-		Etymologies: gslice.Map(youDaoResp.Etym.Etyms.Zh, func(etymology EtymologyZh) *Etymology {
+		WordForms:       gslice.Map(wordData.Wfs, func(wf wordFrom) string { return wf.Wf.Name + wf.Wf.Value }),
+		Etymologies: gslice.Map(youDaoResp.Etym.Etyms.Zh, func(etymology etymologyZh) *Etymology {
 			return &Etymology{Value: etymology.Value, Desc: etymology.Desc}
 		}),
-		EgSentences: gslice.Map(youDaoResp.BlngSentsPart.SentencePair, func(sentencePair EgSentencePair) *EGSentence {
+		EgSentences: gslice.Map(youDaoResp.BlngSentsPart.SentencePair, func(sentencePair egSentencePair) *EGSentence {
 			return &EGSentence{Sentence: sentencePair.Sentence, Translation: sentencePair.SentenceTranslation}
 		}),
 	}, nil

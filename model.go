@@ -525,21 +525,21 @@ type EgSentencePair struct {
 }
 
 type TranslateResponse struct {
-	Ukphone         string        `thrift:"ukphone,1" json:"ukphone" form:"ukphone" query:"ukphone"`
-	Usphone         string        `thrift:"usphone,2" json:"usphone" form:"usphone" query:"usphone"`
-	Translations    []string      `thrift:"translations,3" json:"translations" form:"translations" query:"translations"`
-	WebTranslations []string      `thrift:"web_translations,4" json:"web_translations" form:"web_translations" query:"web_translations"`
-	WordForms       []string      `thrift:"word_forms,4" json:"word_forms" form:"word_forms" query:"word_forms"`
-	Etymologies     []*Etymology  `thrift:"etymologies,5" json:"etymologies" form:"etymologies" query:"etymologies"`
-	EgSentences     []*EGSentence `thrift:"eg_sentences,6" json:"eg_sentences" form:"eg_sentences" query:"eg_sentences"`
+	Ukphone         string        `json:"ukphone"`
+	Usphone         string        `json:"usphone"`
+	Translations    []string      `json:"translations"`
+	WebTranslations []string      `json:"web_translations"`
+	WordForms       []string      `json:"word_forms"`
+	Etymologies     []*Etymology  `json:"etymologies"`
+	EgSentences     []*EGSentence `json:"eg_sentences"`
 }
 
 type Etymology struct {
-	Value string `thrift:"value,1" json:"value" form:"value" query:"value"`
-	Desc  string `thrift:"desc,2" json:"desc" form:"desc" query:"desc"`
+	Value string `json:"value"`
+	Desc  string `json:"desc"`
 }
 
 type EGSentence struct {
-	Sentence    string `thrift:"sentence,1" json:"sentence" form:"sentence" query:"sentence"`
-	Translation string `thrift:"translation,2" json:"translation" form:"translation" query:"translation"`
+	Sentence    string `json:"sentence"`
+	Translation string `json:"translation"`
 }

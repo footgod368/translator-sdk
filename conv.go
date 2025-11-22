@@ -42,6 +42,10 @@ func convWebTranslations(webTranslations []webTranslation) []string {
 }
 
 func convDiscrimination(youDaoResp *rawYouDaoResponse) []DiscriminateUsage {
+	if len(youDaoResp.Discriminate.Data) == 0 {
+		return nil
+	}
+
 	var maxHeadwords, maxHeadwordsIndex int32
 	for i, data := range youDaoResp.Discriminate.Data {
 		if int32(len(data.Headwords)) > maxHeadwords {

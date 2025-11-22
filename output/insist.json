@@ -1,0 +1,1814 @@
+{
+    "web_trans": {
+        "web-translation": [
+            {
+                "@same": "true",
+                "key": "insist",
+                "key-speech": "insist",
+                "trans": [
+                    {
+                        "summary": {
+                            "line": [
+                                "iHubb所做的事，一如他们的名字——i是<b>坚持</b>(<b>insist</b>)，对爱，对品质和设计的<b>坚持</b>。Hub，是枢纽，iHubb立志集结更多的明星艺人以及社会团体，关爱动物和人类的生存环境。"
+                            ]
+                        },
+                        "value": "坚持",
+                        "support": 1354,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "... insideprep。在……里面ad。在里面 <b>insist</b>vi。坚持；<b>坚决认为</b> inspectvt。检查；检验；审视 ..."
+                            ]
+                        },
+                        "value": "坚决认为",
+                        "support": 708,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "命里偶然终须有，伪装的善良比真实的凶残更可怕；命里无时莫<b>强求</b>(Insist)，掌珠散尽或许是苍天，给你一个从零初阶的磨练，男人，人不应有：自我、自大、自负；人应该：自由、自主、自立。该当永不放胆。"
+                            ]
+                        },
+                        "value": "强求",
+                        "support": 638,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "四、考查宾语从句的虚拟语气问题(1)在表示<b>坚持要求</b>(<b>insist</b>),命令(order,demand),建议(suggest,,advise,propose),要求(ask,requre,demand,request)等动词后的宾语从句中,谓语动词要用虚拟语..."
+                            ]
+                        },
+                        "value": "坚持要求",
+                        "support": 540,
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "key": "insist on",
+                "key-speech": "insist+on",
+                "trans": [
+                    {
+                        "value": "坚持"
+                    },
+                    {
+                        "value": "强调"
+                    },
+                    {
+                        "value": "坚持认为"
+                    }
+                ]
+            },
+            {
+                "key": "Insist on promise",
+                "key-speech": "Insist+on+promise",
+                "trans": [
+                    {
+                        "value": "坚持承诺"
+                    }
+                ]
+            },
+            {
+                "key": "insist on doing",
+                "key-speech": "insist+on+doing",
+                "trans": [
+                    {
+                        "value": "执意坚持做某事"
+                    }
+                ]
+            },
+            {
+                "key": "insist on doing sth",
+                "key-speech": "insist+on+doing+sth",
+                "trans": [
+                    {
+                        "value": "坚持做某事"
+                    },
+                    {
+                        "value": "坚决做某事"
+                    },
+                    {
+                        "value": "保持做某事"
+                    },
+                    {
+                        "value": "坚持"
+                    }
+                ]
+            },
+            {
+                "key": "If you insist",
+                "key-speech": "If+you+insist",
+                "trans": [
+                    {
+                        "value": "如果你坚持的话"
+                    },
+                    {
+                        "value": "如果你一定要这样"
+                    },
+                    {
+                        "value": "如果你一定坚持的话"
+                    }
+                ]
+            },
+            {
+                "key": "insist that",
+                "key-speech": "insist+that",
+                "trans": [
+                    {
+                        "value": "坚持说"
+                    },
+                    {
+                        "value": "坚持认为"
+                    }
+                ]
+            },
+            {
+                "key": "insist upon",
+                "key-speech": "insist+upon",
+                "trans": [
+                    {
+                        "value": "支持"
+                    },
+                    {
+                        "value": "坚持"
+                    },
+                    {
+                        "value": "坚决主张"
+                    }
+                ]
+            },
+            {
+                "key": "But if you insist",
+                "key-speech": "But+if+you+insist",
+                "trans": [
+                    {
+                        "value": "如果你坚持话"
+                    }
+                ]
+            }
+        ]
+    },
+    "oxfordAdvanceHtml": {
+        "encryptedData": "Oi7q_uLf41Op8q1BEZge7AaqKJM17DSt_ReKlwt7eUPcHao9OEimvTR627q0N81SOFlg3RbcNND5g8XH2Tthp79h3am1cF9kT2XniM7y6V8qDR9qu4wHIksOfo9AGA5b4iFz7OcqhJvyCRCyeBko6QY6jDC7U7aRcjx0QshgoKxSrEcHsy5G3rZEwA_vyBPadVPLAyHH8puB2dy8ppkNOZYmsNBVSnS9KmJBxwx14cVRKOUbxOV9bSKBjdSOZKZ91h_BU9NOs-qa8z9TP_pOc1OCkAYModRfEeE0imqIIY4M3z7pfVO3y_mCjG3OB-XIEvRV9TjZpNGDb7jkNzAI-uO3EWN5LFgWh18MRSNFBUGS2v8SH2ByX4mn_eYjk2iCiUA0BbC-SGWEjzNP4ymBo5uMKANWrIdX97wqluobDOvuTsTVM_1e3RsgNn-tCdaer_62bt0EaBjtl-8iyWH114bsdzNjE4w42dTGr73HD6z6kmrgYzqYDlNP2m3r9zTGMtmXxU1dmuS-nIbF2gVP65bqdRwT6W8sr1GbWGOHkVhSphhMeO9PdbilAX6q9L6G4-sKjBsNYnp1dAlJW6Phf52SEe79WMa7kuAZbFdx9jf6yeTohPduRQ4odZDY3tvkZDVD7LS7BAJii7t9N0hTv62Lehlqdi3KxhtGKF3VI1MZxnCNXtCzOiW-OhfZgKheaIE8Ml2nX7931LnHDZWF2w93HdTn1pcKQh8y6esU8zk7SVfct0gKEyCIdPB9488kgemP-JJT0JQ5CHNWE1hsj2HlUDBSA7YfBqxvxL997PluA17M0zcxFzD2wSRZMApkOnYg5gQjzWx0op1H8gmWQb_xgbq92tIyq-IlEB27iZ7WbxtyctfxSiKa2WMqi5Sy-ZEFhNAJ-NLdwIAPQisL59sCkNGW1_NrBDUBSpXfyMwepGVAm4CJpWseWMGwm_oXm463JFRSYcwIsKWB4x6KtJEsgBCy6nM2wtibnY4_ubkoGsgguvl4UTgFlk4AcDXR6I53ZxKz-21dci5U6YeYeHL6Otu6Wepls7vL0q62qJmZyQWzUaTHm_9gCLLpYifCAG8GAYgdcnTfoljajsg5_cmWmGfQDaZrNKSv_ZMaLZqVXge-CrfHMnrBMas55Ojmq8vuTdl-LweV50VuzfTvLOrcHG5VnKg7Adl2Ln37FDr9NAxPL-eVYjIxThqRoCpgzv1FVYP8l9Jbc7QbVFTFS3oYueaa_zBqeou_g11FI3DRUP3QLtg4yc4yCQNSmH5SVqlUPsAhZXjOgCRqY-DuzZ6vwvefaUYaTKYGV6y68GkyjK1RryF3IYO_4pgW6FkwAWAqViSSAmFfz1cLe-BESETtFr3CQOJBzr7Glx7ZYCZZrMkkaIFk9MuAonB6lDbkvQ4SdOFxCx600v3nxnUaBtKa76D0145fw-vbpo4-fHr3vXIYQ0Z9q2DbEEzXiTcTgfcxMN3Q5yjjwuQM6EOHJb0g2bKx6SDeCfvP_FoxD8xzVxKYLYclcDBCuakH50eMYwgzG_3AP0Jpto-hL-3VD7YfP_KRN1CB5QgYBqrRziVxdBCGQNoosBayeYnUgWzseVBRSqhyXFjuJ1w5P3VYeCVhtWlh_fbHHajllSe-ww4GM29hBdLZJF-KBb8gSSa2X410vybhVWFA1XuDZiMSrX0wKX6R2UgxtYn_HojyuEGJo44HMydoTQuqN_EjSazD5gnjo7wJX99KeJjz5qPItwtOf0TOH1_kGIySt1BWxrBVCxIQavtEwVu35YUEIlkq304EDm8TBokPipQVLLjjlifTd4vb8mdiHeQ53Y1FlD_HdwOHXUKH_M42Bl63dwRZLlQmshTzbQnXn5teWUuK45G57hVOFr49x1l_J10nZovZ_HuDOhKknWkRWPefkJlf4mzdnG9nXC1i0qAbmpBU8xiGdJ0AMDSJ3W9cjCAfRRva37k06M3Ex99oHpX7YeI4Nz5HwKOdt1_Pj5FCoTN_vgVI4L3FZ1QJdmSdjfUAkA77CO54TtpwkhN28dMRxUSNoqWVfsZg4X7Conas_5SFk74K9K91anqxeDZ_Nezc1ZZcSMKQdGz6H8FqKAnx2FgmtGRsFnH2ZvyOXDQ_PIKMwmxYRAOp7aH033x3eP7S3u0zNVUEF7FXFaYlzE5sOS81KfD231fTDeIf9WCgnz2kiR4rtEnlY3re2Q68VhW9xM5sixTVr0nNujF6UZVU_H1zAOxpj-StHDuQMCoKGZ5iiiSjH9x2h99cIGiQzwpZy-W7sgTGqn_XH9TXmAixwd2RKfAxLNIygCVvtBSOcs9c5-glEfSlOeApU9wPQs5Ybz0AvRGjWsVdB77pfyvmJdikJc70fjWMVSdaMA5oJfmH1HyZuVVNgQEC0wXx5mz3kklJSennr4Kg_uhUvncNWew2G8yLcEXn91kGj8Gfq2l1ZCAIq_Kt-otaLpNwNeF1Ib0fWeztQ4iJGoIAIwic1SBY1PP16wxnqETBR6b4czvB2FodZoZ4tlCY06QWmXTMRnJekaK0nZBQz_nnfuQqXTnEI4_IVeU0hGOTub9Fr9LakJvkzkKBo1ndf2WsezhRAGtWUu71I4Ap9muIiRnNfMtIIng0ME-ATNoSaJgO5tjLDdgxSoZxsqD9lnLF3tAx2WZXBdazqLlVowsFL-3EqOKAADckpqiB-bweLt17FOXbS_9l37-10a22g8LqthonN3YQld_FqFRxuk91yd0TBz2O1wrG61T3WEVxe0xlyQ4QoPVEtWhQnsbR3sBwODc7pVGZ7uxfE4970qrOLgOHqWKQ6aEOQuxSC_OIuua3yfNaqgxrJOM9hkh0nxk3Q7DE1087pE5EO_d4dKmSzi4uycKyIIGusU1u4A_BgBxpwL6KuW1PJ773h_r-YwZxzB6aWvvEJJDTD61kQGSHzTFNkpVoKZ8wL3DaS9E9ooL77n8iUUyuF6rJkxqHfnQ1P3qQd3Rz0lPup89khodoFsQe_F6fT9C0p64cwuOXF4wR6UPJuQydHbPPF1d4zeRBLEQC4iXzcCfLln0fJfAfk1YBNvqOzTQ72i_MkAwCWcEgKpfZZndCYzyLOpQcW93ukWuDn3_vpSvT7RK4T6efZWI2VzmI7DATWDBPqxKAVQwE6uBARXFAFukekL1EoENI9LlxmRi_ky_3zRWLvZcxrE3uxU236sx6vu-5dkFZaAUcipZwATH0Ak6DkXe6FtJZi2m6Hc1D70NKfQDM1xpRZ3EwGYEJSm_DOBtJk3vHUD1SY18tifAm59YdlaKsENSeBaPMta79sHQhSFPeoU2JrhJuQx7RFTPzl48be9-6Z23kfcyfrgG8FmsNi5o5RWhBpUdcuhJzWXVTK4oOBMdErqXtu_uWlFgEhd7y27dxCEpfp42ND_Gt9OEwQYf1fI74-yTsGbTVoWyKOf35uqpR85wHwZW5I4wx-hmQlFYLQ5LuvI9LpY-XjSV3MBwK87qVmiKdf9fyJAMLibj9sxOonQWs3raPpYLfuodgeoCqeHoSSX6WaV4Fa4YI7NOPe5tABs2uZ-R655AvMN7nWVPBlLQ4IRR-GmuAa8gSNetUUc-QYwbcNYAum0LAU0HTQgETiKcJIlYgXoFRE8bXb_Tykts-R6Tsjo-lMjicFxGoshjjbh-f_A_TNradZa0M5fFolDLIcnFs-XiB7DjQL7ebGkXfYRnEXk5FjtR9c88QpToYM3VaVh-3BjWJYDWcQgiJNHQJTDG0ZroPiqRKXhR0zs9dxXrou2RafDwVh40F8qd7AlVeOGfc6ToBzm4QZ3Cs8qjgpNKKBym8r8mn-nLPBhdRgSbHK_S9iOeqxkgejW7WjLWC_xjK4m_vY07qa4DSZChKNoDRmdQ_y3raGDdbhWJdfMmX5wjvVKKWknGIomdmFd9DOhanA9qQnonzAxuBrJZfNQ9eaDXmOWSoZpaz2-n2HtJluR0U5ceZi6EhmVEwdpjwoNOdID7PQ-6es5c02VFrEFYzL7ehOMQrxicaBlM_YMkQfvNDBbCnJWUrlzdcqweot-xaomfSNG3_Dx7RrNKyxtU6iJRbKsye4cO7CZyOqBFnnB1e0JcZMXxVz1IZdh01A4lNtgJKzVrPpnL0K5_c0LA-WUOHUp00EAa04i408RjND523fT47XNtCbcD7PuOPt_tcBtuvsocUk4SNmGHE9tfsY7HDrSZxFQLCmq2H4lT4gmEQm9sOg-Ga1YXlOdIP5AQ7xp_f_j1frDYXPi2QspT_34f-Y6CKkDz5I9wVLpjdrl49PXVA3N-WlNly6SJBSeI-HkmHxULyZGeK_IF4ZnKImrXa3y6doMvY9ztURg8sSgqIQDdDvucq5wF6eSgI4icw2sqSZ50T6vmF3zi-Ucuc1d5A5YkjIHVcChbGZRPtSj0FL8AVOOWA4YKd5dHzCEUhSdsyL6OpmnonrIIU5H9tORPkjfieEV1QrZEN2X1KaYINLKnAuV5DGcb0OzGY3_O8faNCm_mYX3fnZA3t9N0e6Y_L97-wB-ZuM2yj8JC4oYZljslreFfz-14iHPPVBe_8bVOIB6-_ep4Y0Aa_bHQBU9aaxRwRQwOUzPJV8UpaYObllTFJxWVsUOO0R7086xXhB7uMGnRvhixTfQ4AIE4gdMqRIC246-E2XMV386iGY2V920QLlgNF0Csfb0cE5FSLRqJCxgWPEF5WLf0jDcv0eTEb7xrppj_zJ1av6_CgqQ5xXjwOtYR8Djib1g8_7jyuzlQUICUoMSvdAsd9KTwgtkiUTuXmaApzHVcFGmyZgdlQhf0pc1EicMU7SMALbrqiROHIUiIJZiOunzxdP5C-FnCqd7OdIpNz2_NtbEbhD5gnKENKuDRnH6J1_6cGclz3BCSqkXsm4GmTu7V_8FOWnOXFZA83y8d8mkaj3En8wuOZUVHIKR-vkUDpejNDSRSvjFlldPK8hWT6jW9c7n7p1b2v9Z0yT-zoEuYFLABgpPWM4RjB68wO_TBmJjoKo_khuqls8SdsMI-JjnRG4JwSw1l4fsSoe8-W9yYdQz_9NJaPmhj4U0CbKXOnS9Tg2sWG8WSGIvtVkrRcmMH2GFAzEj1G4J4Iv4oRpT-weOZReP9ssE4H59u4vFkkcWuHoMSBI9UDVnUrd4xLlXTo1paG0Zc_x2Hufq3sS-m-_YkDQuNAcnH2VYUEDU-y2SjMACAEGYXmakAKOr1ie4YVuhZoYyIZlWDvFbQ_Ahd81S8aK57ti11h9QfM_mqleGbbr8x_13hCGHMbMcAcNN_fuuwngPHrsdiMndYB7DMZFcY78o1ukEcD6JnPVtJF8TsPaD4eh8zH37mL7_fkS4_0FN6kOCl-td6g0H_TfP7HTVnc3J9riIf6t_nIgYkK02fV6fXzjWDKHZnE83nSPt6CKxFCVI8cTLEss0cZtcMO7K7oeU5OJ8q_twC6NPzBLIgEg_kA8eu5jeRO5mOmJvXkgAot2TYd_yJRWzPbFtVcyL-hOgvYP80GdhzqcJgCfSZEKaTEn9pzpNiJ5VlDc-R2biMyUPPzPWgvm3Ltz5xOGGdmk8mTwJ-rAygoc5c1hft37DFtkqxcU-OLWAhdXwnUyBqkSUcCNUFJwvvUxFKEj1WI08R5mHr-2YqbczpRGl-EA09Na45wjggdAdY5bzESxKQTAwEAVLxcvAvNMLRxNObp4wFFh4ATCS4oeKE0h6MpvKoly3JapyV7nXWGR3cGxJ3SWucSYGT18AJrHUfUakD6Pl5ToB-JZHIj75_2vaNMuFB3I-_ueRB5h4jeabozJjqWDVkpt9y3F4rg5qZBlHM278JKu7aWgCzs3-jACROhuxiHlMkp4hLOJ9UcurGoNiRLVfTSZlGSVR5EM6JQDUkfKeLDF9WvU5rGHQKChpbhf9j3XvybUp8lELhoUXrJI2Ul0w2yjZWDVGRhg8KhBtiMMdxCithxl-Gz178Ufh0f1eXBB79qPGKuv-yp7_6Sa-e0OYeK_11xvHDr6DB0rx-6x-c0SGLkv9kDzR_XldR1ZAE4DH7aZpeb6A4xxyqZAiEaKoilqZtrh3Q-WPwf_hiTlYsZJmbw_7FtsdG9GYdb__o-fmwMsr2JDuLj5B16Eu30amp7-Vt77TDxoxW2CgkvfMQGDwpenNyIixFSYZHXNUwh1Gve-Xbvbm487VGp4FhKqLVtOhUo2W6DuFmF9bGJ3_i1YLAYFad4FlkWQ88oz26onoCyyTMBOGFqfioKpwcfBYJCHpLPN0-2NClYkJouDnED-9BhvRptb7WqfCdEzXlscmjBNyHnE16wP4F_q_SZEgUY3Cpu1RAG2v8jmENzg8w9ff6Ecztm6-JXHCueD1tNfKyi3voBGvmzF8N81pAm7n8e2n7D7VV6Xn7k20AGNkuDq0b3PzlPCDI5rXGXq-AXhSasXhyW8T-7B_M4dNAvpaG9yyv4XFV4hjCKJlLAadGzx8NS1kv9zcxI68Twzh4CCAIlTIarA4fvoutBJdjfZzjQOnf4MJXq9O3Yhm_fKiCKOCCT2gCV8Ly_3NymDUxqXcNv4-12yCQaPEa1tTQp_N_0YdZ8bAKnysiWPLgLrDqhQZWB1WsMSDoR1m46f2p06tvGjSk58H5rBc0v69fOHLiXxU1unmMnYSh5wBZqmXbFStxDba2QDuEkDw3apnHajVd_XV_EBT0yJjvox7ZFCi3BQ4_22kivqwBfqIS0Q-tb34QkA4hJrZTgLQgqwk0VD0z_EvXCAY_PSV1nsqbssQxDngRmXcYOFGIeuCRD2Epm2TwbCB4Zt96-WO0jRDlesgrxojDpSqfRl3Hkw0JFUBMsnF7GrreDLfaec8VsAR1NNAR5I5BTsLqKS8QaO_TufTDMElxnQ-G3k_ohiAldS80yb1GPTFgZropr4sGNv8OlSgbKfsLM05DHLP-osaZXllbsZfmN09zHkT9UfbJtDX03D89Uqi-ft-FxbO73ckspkQVe-NdmdBnBK9Qcti_KPvb508uu5OXiVuVRIw3LInrFn7G0jRoKUjXepiO5-P12dRpQmh2y2GWXJxyOv8XHdxML95Ak_8CTt9eVLlwrfL00kPGKQh8FkfMxeZjG0-q8W-JsZMM-qDbGwcLqKjaXjGINv-mpXf5bEVrkLiI="
+    },
+    "pic_dict": {
+        "pic": [
+            {
+                "image": "https://ydlunacommon-cdn.nosdn.127.net/c63a76e2f8215188724c79a49a531124.jpg?",
+                "host": "",
+                "url": "https://ydlunacommon-cdn.nosdn.127.net/c63a76e2f8215188724c79a49a531124.jpg?"
+            }
+        ]
+    },
+    "simple": {
+        "query": "insist",
+        "word": [
+            {
+                "usphone": "ɪnˈsɪst",
+                "ukphone": "ɪnˈsɪst",
+                "ukspeech": "insist&type=1",
+                "return-phrase": "insist",
+                "usspeech": "insist&type=2",
+                "collegeExamVoice": {
+                    "speechWord": "insist"
+                }
+            }
+        ]
+    },
+    "phrs": {
+        "word": "insist",
+        "phrs": [
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "insist on"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "坚持，坚决要求；督促，强调"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "insist upon"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "坚持…"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            }
+        ]
+    },
+    "oxford": {
+        "encryptedData": "TNvL5RvzrtPgEpLHE_NgTvMMps7y4fRHaUEzdolM_-WBHuFB8Sgrf1hzjIJ3c5growu1-B4Z3VdilAVpWx8asPn3xU6WNYSofHyYnn4V6BYXTjGfKi8q3sBZHYsKhrUuL8VpSzonSieFKG8mD79Q_9vFu6zIZFHuTUY3fSYtG-peCYlOHyIasVmAptKfYpfkBuY-D2_MNWX5BNXWUimTzJdECNd07itdznUi_0ExXV83G_a-fMqqYtGcVC_eFnrexJ9ftB8cp_b4VIu_bFlX786Ks-2ix8_VgfKAwsk3x0ju9Zokwl_CyTMnzSPYs5paNTeSKplAS5LuVHjYT18mUbQLsdJLF888xnNAZ6EMK65Y0Md9MWYNxeeqs_8H8JPm5Z-sydaFc_HYigbeeUfOPACAPsKfwreKi62AeE4oVBWh4a6JXTofKZ0fTqRT8KlnjWIh3aG2Q9cIu9_ayHKcBaW_soBvCuINez2Hl2L_MVnEX0OhwJpnFaZ_eFLml1lkkDQ5ea6zv-WQIpM4HCWaZCBqE7XIp2MuxDhJjwArWZM7uPGeRRT2Auja1uq96D8Ijim7YwvFVFvSPad74ocnyKOeemEvTbXG1IaXPCckgik9M_CcjXEDBYYeTkguLFInbpoYgnXsk_94jNijNkz404DEloqlckPZ4PtUZ71FGie9kUTGkznhMAOJ3djgSP5ivE2so0dDXNGdmmqq7DIYmOZ08S52Rso3PKJZ6XGSKWvUz0-1xIA61dBU_EsPdtFVmbvroBGPcoRs7P6k68zj5JkbsfFicvDXEd2vFyt7VO7Ghatm-OGwu1y-ZvBJaYNUhlT3cc88YsFIqNMuIFNAjmttfOeQgVcDV5mIMyszj2EBYlJDBp4esnyKbnfPspIeIQD_0ITyk4mne2H_rPgjSRMr9dbiQGaGlxkEOHjZbJGT2yXqR8HjtkxH9-qYXcfSW_7b1XJKSiCFlYT112-rfPDm05ky5a7L2tld9H2Uia61A3t7e6jwcH5YvBpDUDjjjkjWAUNZCF-uusJbyH4yKex9dSaN2xGeF2OgJvy2J_zaTJLDClOVtglk7BVUwAtwgqZGUin-4Bf5Bli2lRnYQSIE0Q8ItT9eT9LdO84NZT1giMO7JTa5PeHDqzTgJ0I4YbG_5fKpNbgbN-IE0D1_ZA8MSa8vJrycEKjOL-GFSlAuYSh0raYb-t4A-XMxvsdvKDYzBe1N15qdqJ5FxhhPLRR9RZw3EGRTgFLdsBxvb5MvGlv5C4tCVK7UfuqFM0lZmXcL5v1g05rJwM9s-MwYkZjk00Ct6NPxQ-UtHAr6gGPAcE-0ud9pMdrSoSLTJ_7oPcRRY6mA-4QwHODQf68fQeUOuXvEANt47wlxczwmlWi-jTLeC4x6xv-K3J44nVbZ8OBojad_ROqVk8af0tbbguYYi6nwGrEXO7H8e2yCIe6Fi6IOtNhfQF5cla8w9WKvwDrxQGtzJGJfAkaEs2gpKC0CDDALy8kSVS7vklIk8Nx6oNnKw7Hf8T8SgHm9LXO9S_w_-UZW7TqfOvj8WZDvSSUJL6vhCSQBOyMj02kupT0ccZHmZzsd1gOKukmwF1AfUWtq9j_7JYCdW0o4lzEm_Ox7EkM9feB_ZCVA2ylkdAGy-lm5rOp6slaLGv2BTy4-1H2kJyBtfbfIf8KL9MkOWTP1uqvCGTpuJuQFZyUnX7AnhN7oUketvF6JeplYfVm-dD5gIKDi7f1eoqAklQJ_yyhE-q0bb54-aFHBAwHJnfJd6jGpdBbRGXUchCSaXCmyfYr4qCdBslwkZcjtB3kgC-6FJ2bsM_t5YS_ylZMlCakmVaCXvkmFN8NnzdG2HjDr10Bqja0AO0uQVkWk9dP9H2vNBQDIH6rnfdUS4mjzTpfNYQxDHzOaWKpJdZ3-g4kYqn_i7PKg9G3ifrvApxyV0-Px2h62hWC7VfKKFcbpX0M0WwbmDxk9kOKqFDY7HqW6GB6zaGg4-jB48lEpZFRuY9rgRxnZ_H0fv1YCghoz0Hj7Ebjv_5noA05h3h45Wh9pt0O0IUdEp82y4IXgcMjltZs4HDdiA2V4iUnqbdxYvXCE2S5_EzwqjnwaBbTJF1Ni-uftTACuC4OPADO3xb_QGGzjH7M4ygKQnlBllKRH_K44_QqPOnUd2wYkpNx68wvrVKodexQyWJtQC6anshHsXg=="
+    },
+    "wordElaboration": {
+        "encryptedData": "beGALoEcIOl0nd25FWxKlHQbQKVQ_lUHVVVSyuZ9tzvCPfzeSIPml96AtKHlnRyd-gQINKIGLiq8ujreEdXE6f9QXULUQwmhgFuGlzrcqyrH11Ifugd_OljBTo7pCyvRKIT9Z4SFQdAccgoh20bEJG6ROul1a96dg2B28Ev0hbwTRZPIm5V6u5-8JHDz8usfhv4h9S-UxxcdZOW0oqpdrZMtI89aNPqjYsIagU61ZJ-9T2UznSu_ZQDfEl7C6j_j3hWhjlacdcEu9RGZrC7kgN68QAzgIbz-ASMXr4Ykjkz1Om9YiaXKiI1YI6j3gtjNHDQPfq7HywLl7f8fE4rW_seIhqfiznAce-ew6IUOeKAJ19DZW4wR3SrdVz5ZrAS4GUdjupMz0EnXGVgp4JMMjhNP7wCk9sX2cdqtF0ULk7celamz_5ST57OxifqsrJ7uiFVNFf0BDUSuBfJilTPjaBeO8M8IbhIBb402ADP0Oh0RDpkaHU_PpZcllHji2sVMeX4CujMbZilHbnZBRriRDh6FAkqA4sQMgZLupv2DeenNQ7LvHcaYTCiUEIF9nlsXBu5LyLIjZENp3kVT8CEwickYwmE8b-LNLZdwmwDbNw7-ACWEECcwGoF6emxkb5I6JakRwnUnctjoHDgrgL4Fh2yI5IFpj8ItH9XtsWBiMgBHvcAc4Wk7t6qkMVDJ43EwhWdLkbnkzUtxmFS2DK6lprN6ShLJzlYAXkwbKIwN7rN73rXtSjnKd6rr9GnikrnFbJcJXSVixIOLFigXhWxypOpzG9TC1ulM-MVv4YaaAm0-WGnyFrCCDZtmmXe5FpluXf2IoCRD_PGU9zRQMZHZWQ=="
+    },
+    "syno": {
+        "synos": [
+            {
+                "syno": {
+                    "pos": "vt.",
+                    "ws": [
+                        {
+                            "w": "emphasize"
+                        },
+                        {
+                            "w": "stay"
+                        },
+                        {
+                            "w": "tough"
+                        },
+                        {
+                            "w": "stress"
+                        },
+                        {
+                            "w": "highlight"
+                        }
+                    ],
+                    "tran": "坚持，强调"
+                }
+            },
+            {
+                "syno": {
+                    "pos": "vi.",
+                    "ws": [
+                        {
+                            "w": "stay"
+                        },
+                        {
+                            "w": "stand on"
+                        }
+                    ],
+                    "tran": "坚持，强调"
+                }
+            }
+        ],
+        "word": "insist"
+    },
+    "collins": {
+        "collins_entries": [
+            {
+                "entries": {
+                    "entry": [
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "V-T/V-I",
+                                        "pos_tips": "及物动词/不及物动词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "我家人坚持认为我不应该屈服，而应该留下来斗争。",
+                                                "eng_sent": "My family insisted that I should not give in, but stay and fight."
+                                            },
+                                            {
+                                                "chn_sent": "她坚决要求出席所有的采访。",
+                                                "eng_sent": "She insisted on being present at all the interviews."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you <b>insist</b> <b>that</b> something should be done, you say so very firmly and refuse to give in about it. If you <b>insist</b> <b>on</b> something, you say firmly that it must be done or provided. 坚持认为; 执意要求"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "V-T/V-I",
+                                        "pos_tips": "及物动词/不及物动词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "总统坚持说他这么做是出于同情而不是政治投机。",
+                                                "eng_sent": "The president insisted that he was acting out of compassion, not political opportunism."
+                                            },
+                                            {
+                                                "chn_sent": "“事情并没有像想的那么难，”她坚持说。",
+                                                "eng_sent": "\"It's not that difficult,\" she insists."
+                                            },
+                                            {
+                                                "chn_sent": "他坚持说自己是清白的。",
+                                                "eng_sent": "He insisted on his innocence."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you <b>insist</b> that something is the case, you say so very firmly and refuse to say otherwise, even though other people do not believe you. 坚持说"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "phonetic": "ɪnˈsɪst",
+                "basic_entries": {
+                    "basic_entry": [
+                        {
+                            "cet": "CET4 TEM4",
+                            "headword": "insist",
+                            "wordforms": {
+                                "wordform": [
+                                    {
+                                        "word": "insisting"
+                                    },
+                                    {
+                                        "word": "insisted"
+                                    },
+                                    {
+                                        "word": "insists"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "headword": "insist",
+                "star": "4"
+            }
+        ]
+    },
+    "word_video": {
+        "word_videos": [
+            {
+                "ad": {
+                    "avatar": "https://ydlunacommon-cdn.nosdn.127.net/7606f5fe76d2d500b3c599dfc97ac0fa.png",
+                    "title": "沉浸式学习，无痛速记3500词",
+                    "url": "https://ke.study.163.com/topic/study/cdylszsj3500gpc.html?outVendor=cidianccsp_yljyw0909"
+                },
+                "video": {
+                    "cover": "https://ydlunacommon-cdn.nosdn.127.net/f4bfcba6d42ea6fb039b7dd700c58910.png",
+                    "image": "https://ydlunacommon-cdn.nosdn.127.net/4e0953fdb521b355641f2b59c2dc2a2f.jpg",
+                    "title": "杨亮讲英文 | 亮解单词 |insist",
+                    "url": "https://luna-dict-community.nosdn.127.net/dnQiWA85_4733479539_shd.mp4"
+                }
+            }
+        ]
+    },
+    "webster": {
+        "encryptedData": "cIUbJDMFJ-sQnHQaxcn680G0pBFXmBjdgwn4Vh7Notf4xSuHa-Kk-7z8SFYibXcanEcxjWAMeiIHjbgd-9Fb6tca_t7SgEFwQFnQTpHfHZcC5UyNmADgb2uDDqgwXytyCGhBxZtVhsPZcMwSxLKiRuIHd5r6ZjjBjrrrdM7fo7m-PFc4Kzjpu6nG-t8Jb6igznWRnkVSwpZZrdIT7qrDVtmZ_yeS3GMnm_ibXidLi-krpKY25uu05ET8kd7TYVFZTi4hEDOVFiIqP95ayOYcoQVsgcshvFwqLji4zFO_OrsXKk2HLgpTSN6bVJ4KJjXnIkvGUOYZPfkdmjj9QHis_fQDulPtYxlHo7SLzDAEzAyedn4W7SIp1V47Dqz2VqloNqtTWVvaTKUamfy5_o1OjpUnFBayfCgk6eFOLbfIhXt9mXsOuahs5plWPLHCTg71sNvSBTv9XVy0Rfa4-OTVBhr_6kTqasuGzsqbaJ4N9LRC516diftjPIijWllabdmTa5Kupk_sGB40t3MrOqF9sO0cIs5582t2cgO5H5B9LjEUz78AMgILuMJxy3-fZrlJqcI89s-aMcFCGDNCU739VSfl4FaDuzabAgNKplIWyDFE2SkIkPcEfyD03G1KO81Mc0d9-0Zg2J7mLCeNs1KRPFADsIi5r1sG7nFLw6oiw3qNyWlrspwZBIYtKtsiL6pSvL-W1qNSBBvph4CvJa6zZJCym8AAr0qBoyxonewjIyyMJI61eyVBBtYJ3U01s-QGcTrKP1_XAFQFj5Sgiri5L50EqBiKg_ncF3Y1FRVmjJdUDErmS5dQrvbFGVWF7z8hn7I1qyctrc-ynrno7w_EG5hW4-Ss-hbqMBOntQ4rwY-1bz9E8JtcSI8lXa3MWtCUuYG2asCicuDikhodxNwSfpk1VRGcgkUYvYy0CPBXsb4sluueGkn-0dRa__y9qiRg2GWOBsRYF0t5AxDCvTFdZTqvM2gEyuqCucJteZR2Hf41nsZjSatJKdeKBcSSdqoYqrNKVBuPZE9_NdQ70dNa7LpvSde2FNn4OVUDKw47Q32vAdcUVK4-GDFSnTod_yiZ4Zm_u9D-9eTsnTGwLIKI0w=="
+    },
+    "discriminate": {
+        "data": [
+            {
+                "source": "http://wenku.baidu.com/view/9b9db523a5e9856a561260a2.html",
+                "usages": [
+                    {
+                        "headword": "insist",
+                        "usage": "坚持，后面接介词on，也可直接连用that引导的名词从句。如：He insisted on my going there with him. (He insisted that I should go there with him.)"
+                    },
+                    {
+                        "headword": "persist",
+                        "usage": "坚持，后面常接介词in。如：He persisted in carrying on his work in spite of great fatigue.(他虽然疲倦极了，可仍坚持工作。)"
+                    }
+                ],
+                "headwords": [
+                    "insist",
+                    "persist"
+                ]
+            },
+            {
+                "source": "http://wenku.baidu.com/view/40c2bfec81c758f5f61f671b.html",
+                "usages": [
+                    {
+                        "headword": "persevere",
+                        "usage": "含褒义，强调坚持不懈的努力。"
+                    },
+                    {
+                        "headword": "insist",
+                        "usage": "通常用于对意见、主张等的坚持。"
+                    },
+                    {
+                        "headword": "persist",
+                        "usage": "用于褒义指坚持继续做某事，但更常用于贬义，指不听劝告，顽固坚持。"
+                    },
+                    {
+                        "headword": "cling",
+                        "usage": "和to连用，指对信仰、意见、习惯等的坚持。"
+                    },
+                    {
+                        "headword": "adhere",
+                        "usage": "与to连用，指坚持意见、计划或承诺等，含坚持不懈之意。"
+                    }
+                ],
+                "headwords": [
+                    "persevere",
+                    "insist",
+                    "persist",
+                    "cling",
+                    "adhere"
+                ],
+                "tran": "坚持"
+            }
+        ],
+        "return-phrase": "insist"
+    },
+    "lang": "eng",
+    "ec": {
+        "exam_type": [
+            "初中",
+            "高中",
+            "CET4",
+            "CET6",
+            "考研",
+            "IELTS",
+            "TOEFL",
+            "商务英语"
+        ],
+        "source": {
+            "name": "有道词典",
+            "url": "https://dict.youdao.com"
+        },
+        "word": [
+            {
+                "usphone": "ɪnˈsɪst",
+                "ukphone": "ɪnˈsɪst",
+                "ukspeech": "insist&type=1",
+                "trs": [
+                    {
+                        "tr": [
+                            {
+                                "l": {
+                                    "i": [
+                                        "v. 坚决要求，执意坚持；坚称"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "wfs": [
+                    {
+                        "wf": {
+                            "name": "第三人称单数",
+                            "value": "insists"
+                        }
+                    },
+                    {
+                        "wf": {
+                            "name": "现在分词",
+                            "value": "insisting"
+                        }
+                    },
+                    {
+                        "wf": {
+                            "name": "过去式",
+                            "value": "insisted"
+                        }
+                    },
+                    {
+                        "wf": {
+                            "name": "过去分词",
+                            "value": "insisted"
+                        }
+                    }
+                ],
+                "return-phrase": {
+                    "l": {
+                        "i": "insist"
+                    }
+                },
+                "usspeech": "insist&type=2"
+            }
+        ]
+    },
+    "ee": {
+        "source": {
+            "name": "WordNet",
+            "url": "https://wordnet.princeton.edu"
+        },
+        "word": {
+            "trs": [
+                {
+                    "pos": "v.",
+                    "tr": [
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "I must insist!"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "be emphatic or resolute and refuse to budge"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "take a firm stand"
+                                }
+                            ]
+                        },
+                        {
+                            "l": {
+                                "i": "beg persistently and urgently"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "importune"
+                                }
+                            ]
+                        },
+                        {
+                            "l": {
+                                "i": "assert to be true"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "assert"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "phone": "in'sist",
+            "speech": "insist",
+            "return-phrase": {
+                "l": {
+                    "i": "insist"
+                }
+            }
+        }
+    },
+    "blng_sents_part": {
+        "sentence-count": 6,
+        "sentence-pair": [
+            {
+                "sentence": "I insist on paying for the damage.",
+                "sentence-eng": "I <b>insist</b> on paying for the damage.",
+                "sentence-translation": "我坚持要赔偿损失。",
+                "speech-size": "9kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "12",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "13",
+                                "@e": "27",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "28",
+                                "@e": "34",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "2",
+                                "@e": "4",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "7",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "I+insist+on+paying+for+the+damage.&le=eng"
+            },
+            {
+                "sentence": "Oh, very well , then, if you insist.",
+                "sentence-eng": "Oh, very well , then, if you <b>insist</b>.",
+                "sentence-translation": "啊，那好吧，如果你坚持的话。",
+                "speech-size": "10kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "14",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "17",
+                                "@e": "21",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "23",
+                                "@e": "25",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "26",
+                                "@e": "29",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "30",
+                                "@e": "36",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "4",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "4",
+                                "@e": "5",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "7",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "10",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "10",
+                                "@e": "14",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "Oh%2C+very+well+%2C+then%2C+if+you+insist.&le=eng"
+            },
+            {
+                "sentence": "We insist on the highest standards at all times.",
+                "sentence-eng": "We <b>insist</b> on the highest standards at all times.",
+                "sentence-translation": "我们始终坚持最高标准。",
+                "speech-size": "14kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "4",
+                                "@e": "13",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "14",
+                                "@e": "25",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "26",
+                                "@e": "35",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "39",
+                                "@e": "42",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "5",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "7",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "11",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "We+insist+on+the+highest+standards+at+all+times.&le=eng"
+            }
+        ],
+        "more": "blng_sents",
+        "trs-classify": [
+            {
+                "proportion": "100%",
+                "tr": "全部"
+            },
+            {
+                "proportion": "90.8%",
+                "tr": "坚持"
+            },
+            {
+                "proportion": "4.7%",
+                "tr": "坚持认为"
+            },
+            {
+                "proportion": "3.1%",
+                "tr": "强调"
+            },
+            {
+                "proportion": "1.0%",
+                "tr": "坚决要求"
+            },
+            {
+                "proportion": "0.4%",
+                "tr": "咬定"
+            }
+        ]
+    },
+    "individual": {
+        "trs": [
+            {
+                "pos": "v.",
+                "tran": "坚持要求，强调；坚决主张；坚持说，固执地声称"
+            }
+        ],
+        "idiomatic": [
+            {
+                "colloc": {
+                    "en": "insist on (doing) sth.",
+                    "zh": "坚持（做）某事"
+                }
+            }
+        ],
+        "level": "中考",
+        "examInfo": {
+            "year": 5,
+            "questionTypeInfo": [
+                {
+                    "time": 9,
+                    "type": "阅读"
+                },
+                {
+                    "time": 0,
+                    "type": "短文填空"
+                },
+                {
+                    "time": 0,
+                    "type": "听力"
+                },
+                {
+                    "time": 1,
+                    "type": "翻译"
+                },
+                {
+                    "time": 0,
+                    "type": "情景对话"
+                },
+                {
+                    "time": 0,
+                    "type": "写作"
+                },
+                {
+                    "time": 4,
+                    "type": "完形填空"
+                },
+                {
+                    "time": 4,
+                    "type": "单项选择"
+                },
+                {
+                    "time": 0,
+                    "type": "句子填空"
+                }
+            ],
+            "recommendationRate": 1,
+            "frequency": 18
+        },
+        "return-phrase": "insist",
+        "pastExamSents": [
+            {
+                "en": "People without enough sleep would insist that they were fine, but weren't doing well at all.",
+                "source": "2018·江苏-扬州·阅读",
+                "zh": "没有充足睡眠的人会坚持说他们很好，但实际上他们的表现一点都不好。"
+            },
+            {
+                "en": "\"I don't want a new one,\" Grandpa insisted.",
+                "source": "2018·江苏-徐州·阅读",
+                "zh": "爷爷坚持说： “我不想要一个新的。”"
+            },
+            {
+                "en": "Tara, who insisted it was a white board, saw a black one.",
+                "source": "2017·北京·阅读",
+                "zh": "塔拉坚持说那是一块白板，但看到的却是一块黑色的。"
+            },
+            {
+                "en": "About 50% of them raised their hands 3 months later, Socrates asked again, \"Who still insist on that most simple action of swinging?\"",
+                "source": "2017·湖北-黄冈·阅读",
+                "zh": "大约有50%的人三个月后举手，苏格拉底再次问道：“谁还坚持最简单的摆动动作？”"
+            }
+        ],
+        "mnemonic": {
+            "method": "in（向内）+ sist（站立）→ 坚持",
+            "word": "insist"
+        }
+    },
+    "collins_primary": {
+        "words": {
+            "indexforms": [
+                "insist",
+                "insists",
+                "insisting",
+                "insisted"
+            ],
+            "word": "insist"
+        },
+        "gramcat": [
+            {
+                "audiourl": "https://ydlunacommon-cdn.nosdn.127.net/a12c57671378b054187a0b846801e19a.mp3",
+                "pronunciation": "ɪnˈsɪst",
+                "senses": [
+                    {
+                        "sensenumber": "1",
+                        "examples": [
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "罗布执意要开车送他们到车站。"
+                                },
+                                "example": "Rob insisted on driving them to the station."
+                            },
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "他一再要我留下来吃晚饭。"
+                                },
+                                "example": "He insisted that I stay for dinner."
+                            }
+                        ],
+                        "definition": "to say firmly that something must happen",
+                        "lang": "ZH-CN",
+                        "word": "坚持；执意"
+                    },
+                    {
+                        "sensenumber": "2",
+                        "examples": [
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "克拉克坚称自己说的都是实话。"
+                                },
+                                "example": "Clarke insisted that he was telling the truth."
+                            }
+                        ],
+                        "definition": "to say very firmly that something is true",
+                        "lang": "ZH-CN",
+                        "word": "坚称；坚持认为"
+                    }
+                ],
+                "partofspeech": "verb",
+                "audio": "28857",
+                "forms": [
+                    {
+                        "form": "insists"
+                    },
+                    {
+                        "form": "insisting"
+                    },
+                    {
+                        "form": "insisted"
+                    }
+                ]
+            }
+        ]
+    },
+    "rel_word": {
+        "word": "insist",
+        "stem": "insist",
+        "rels": [
+            {
+                "rel": {
+                    "pos": "adj.",
+                    "words": [
+                        {
+                            "word": "insistent",
+                            "tran": " 坚持的；迫切的；显著的；引人注目的；紧急的"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "adv.",
+                    "words": [
+                        {
+                            "word": "insistently",
+                            "tran": " 坚持地；强求地"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "n.",
+                    "words": [
+                        {
+                            "word": "insistence",
+                            "tran": " 坚持，强调；坚决主张"
+                        },
+                        {
+                            "word": "insistency",
+                            "tran": " 坚持；显著或紧急之事；强迫；强调"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "auth_sents_part": {
+        "sentence-count": 6,
+        "more": "auth_sents",
+        "sent": [
+            {
+                "score": 0.9831470251083374,
+                "speech": "There+are+others+apart+from+the+British+who+insist+the+project+needs+far-reaching+reform.+",
+                "speech-size": "26kb",
+                "source": "BBC: <i>Europe's summer of argument</i>",
+                "url": "youdao",
+                "foreign": "There are others apart from the British who <b>insist</b> the project needs far-reaching reform. "
+            },
+            {
+                "score": 0.9831358194351196,
+                "speech": "Executives+at+Microsoft+acknowledge+that+a+fourth+wave+has+begun+but+insist+Microsoft+will+dominate+it.+",
+                "speech-size": "30kb",
+                "source": "FORBES: <i>The New Barbarians</i>",
+                "url": "youdao",
+                "foreign": "Executives at Microsoft acknowledge that a fourth wave has begun but <b>insist</b> Microsoft will dominate it. "
+            },
+            {
+                "score": 0.9831215739250183,
+                "speech": "Others+insist+that+children+would+hop+around+the+table+in+anticipation+of+John%27s+great+creation.+",
+                "speech-size": "28kb",
+                "source": "NPR: <i>Vertamae's Hoppin' John</i>",
+                "url": "youdao",
+                "foreign": "Others <b>insist</b> that children would hop around the table in anticipation of John's great creation. "
+            }
+        ]
+    },
+    "magic_words": {
+        "magic_words": [
+            {
+                "paraphrase": "坚持，坚决认为",
+                "word": "insist",
+                "info": [
+                    {
+                        "phonetic": "/ɪnˈsɪst/",
+                        "videoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/uk.mp4",
+                        "phoneticType": "UK",
+                        "videoCover": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/cover.jpg",
+                        "watermarkVideoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/uk_logo.mp4"
+                    },
+                    {
+                        "phonetic": "/ɪnˈsɪst/",
+                        "videoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/us.mp4",
+                        "phoneticType": "US",
+                        "videoCover": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/cover.jpg",
+                        "watermarkVideoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/us_logo.mp4"
+                    },
+                    {
+                        "phonetic": "/ɪnˈsɪst/",
+                        "videoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/global.mp4",
+                        "phoneticType": "GLOBAL",
+                        "videoCover": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/cover.jpg",
+                        "watermarkVideoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/insist/global_logo.mp4"
+                    }
+                ],
+                "premiumVideoStatus": 0
+            }
+        ]
+    },
+    "media_sents_part": {
+        "sentence-count": 6,
+        "more": "media_sents",
+        "query": "insist",
+        "sent": [
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-4296607995037935364",
+                            "duration": "4900",
+                            "swf": "",
+                            "name": "special.2009.03.09",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-4296607995037935364&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "33kb",
+                "eng": "BENNY: \"Mister Rockford, how about listening to our, our new act?\" ROCKFORD: \"Oh,all right, if you <b>insist</b>.\""
+            },
+            {
+                "@mediatype": "video",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "sourceUrl": "youdao",
+                            "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=2205703423321251215&auto=true",
+                            "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+                            "imageUrl": "http://dict.youdao.com/pureimage?docid=2205703423321251215",
+                            "name": "耶鲁公开课",
+                            "source": "弥尔顿课程节选"
+                        }
+                    ]
+                },
+                "chn": "哈特曼有绝对的权利坚持说任何神学的概念,在中的意义都不足与匹敌自由意志的重要性,也不足以和神圣的天命相比。<br>",
+                "eng": "Hartman's absolutely right to <b>insist</b> that no theological concept is as important to Paradise Lost as free will on the one hand and divine providence on the other.<br>"
+            },
+            {
+                "@mediatype": "video",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "sourceUrl": "youdao",
+                            "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=8787408714157063509&auto=true",
+                            "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+                            "imageUrl": "http://dict.youdao.com/pureimage?docid=8787408714157063509",
+                            "name": "耶鲁公开课",
+                            "source": "古希腊历史简介课程节选"
+                        }
+                    ]
+                },
+                "chn": "他们通过不同的方式使自己参与其中,结果视情况而有所不同<br>",
+                "eng": "They will be finding different ways to <b>insist</b> on their inclusion and the results will be different in every state.<br>"
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=8395826223293180744",
+                            "duration": "9200",
+                            "swf": "",
+                            "name": "standard.2009.09.04",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=8395826223293180744&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "39kb",
+                "eng": "Liberal Democrats, including Speaker Pelosi, <b>insist</b> that a public option must be part of any bill eventually passed by Congress."
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-410265067169653411",
+                            "duration": "9800",
+                            "swf": "",
+                            "name": "standard.2010.08.05",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-410265067169653411&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "39kb",
+                "eng": "Lebanese officials continue to <b>insist</b> Israeli forces crossed into Lebanese territory and the Lebanese Army acted in self-defense."
+            }
+        ]
+    },
+    "expand_ec": {
+        "return-phrase": "insist",
+        "source": {
+            "name": "有道词典",
+            "url": "https://dict.youdao.com"
+        },
+        "word": [
+            {
+                "transList": [
+                    {
+                        "content": {
+                            "detailPos": "v.",
+                            "examType": [
+                                {
+                                    "en": "CET4",
+                                    "zh": "四级"
+                                },
+                                {
+                                    "en": "CET6",
+                                    "zh": "六级"
+                                }
+                            ],
+                            "sents": [
+                                {
+                                    "sentOrig": "My family <b>insisted</b> that I should not give in, but stay and fight.",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "My family insisted that I should not give in, but stay and fight.",
+                                    "sentTrans": "我家人坚持认为我不应该屈服，而应该留下来斗争。",
+                                    "source": "《柯林斯英汉双解大词典》"
+                                },
+                                {
+                                    "sentOrig": "She <b>insisted</b> on him wearing a suit.",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "She insisted on him wearing a suit.",
+                                    "sentTrans": "她坚持要他穿西装。",
+                                    "source": "《牛津词典》"
+                                },
+                                {
+                                    "sentOrig": "Mama <b>insisted</b> that we dress up when we went to shop.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Mama insisted that we dress up when we went to shop.",
+                                    "sentTrans": "妈妈坚持要我们去买东西时要盛装打扮。",
+                                    "source": "CET4·2014年12月·阅读理解",
+                                    "type": "CET4"
+                                },
+                                {
+                                    "sentOrig": "Gary <b>insisted</b> on buying the food for the picnic.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Gary insisted on buying the food for the picnic.",
+                                    "sentTrans": "加里坚持要买野餐用的食物。",
+                                    "source": "CET6·2013年12月·听力理解",
+                                    "type": "CET6"
+                                }
+                            ]
+                        },
+                        "trans": "坚决要求，坚持"
+                    },
+                    {
+                        "content": {
+                            "detailPos": "v.",
+                            "examType": [
+                                {
+                                    "en": "CET4",
+                                    "zh": "四级"
+                                }
+                            ],
+                            "sents": [
+                                {
+                                    "sentOrig": "The president <b>insisted</b> that he was acting out of compassion, not political opportunism.",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "The president insisted that he was acting out of compassion, not political opportunism.",
+                                    "sentTrans": "总统坚持说他这么做是出于同情而不是政治投机。",
+                                    "source": "《柯林斯英汉双解大词典》"
+                                },
+                                {
+                                    "sentOrig": "He <b>insisted</b> on his innocence.",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "He insisted on his innocence.",
+                                    "sentTrans": "他坚持说他是无辜的。",
+                                    "source": "《牛津词典》"
+                                },
+                                {
+                                    "sentOrig": "The textbook industry <b>insists</b> the online systems represent a better deal for students.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "The textbook industry insists the online systems represent a better deal for students.",
+                                    "sentTrans": "教科书行业坚称，在线系统对学生来说是更好的选择。",
+                                    "source": "CET4·2018年6月·阅读理解",
+                                    "type": "CET4"
+                                }
+                            ]
+                        },
+                        "trans": "坚称"
+                    }
+                ],
+                "pos": "v.",
+                "wfs": [
+                    {
+                        "name": "第三人称单数",
+                        "value": "insists"
+                    },
+                    {
+                        "name": "现在分词",
+                        "value": "insisting"
+                    },
+                    {
+                        "name": "过去式",
+                        "value": "insisted"
+                    },
+                    {
+                        "name": "过去分词",
+                        "value": "insisted"
+                    }
+                ]
+            }
+        ]
+    },
+    "etym": {
+        "etyms": {
+            "en": [
+                {
+                    "source": "wiktionary",
+                    "word": "insist",
+                    "value": "From Middle French insister, from Latin insistere",
+                    "url": "https://www.wiktionary.org/",
+                    "desc": ""
+                }
+            ],
+            "zh": [
+                {
+                    "source": "童理民",
+                    "word": "insist",
+                    "value": "来自中世纪法语insister, 来自拉丁语insistere",
+                    "url": "",
+                    "desc": ""
+                },
+                {
+                    "source": "童理民",
+                    "word": "insist",
+                    "value": "in-,进入，使，-sist,站，词源同stand,assist.引申词义坚持。",
+                    "url": "",
+                    "desc": "坚持"
+                },
+                {
+                    "source": "童理民",
+                    "word": "insist",
+                    "value": "词根词缀： in-向内 + -sist-站立 → 站在…立场上",
+                    "url": "",
+                    "desc": "坚持，坚决主张，坚决要求"
+                }
+            ]
+        },
+        "word": "insist"
+    },
+    "special": {
+        "summary": {
+            "sources": {
+                "source": {
+                    "site": "NoteExpress",
+                    "url": "https://dict.youdao.com"
+                }
+            },
+            "text": "以上统计来源于2,447,534篇论文数据，部分数据来源于"
+        },
+        "co-add": "https://dict.youdao.com",
+        "total": "2,447,543",
+        "entries": [
+            {
+                "entry": {
+                    "major": "文学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "坚持",
+                                "chnSent": "首先,<b>坚持</b>“两真”。",
+                                "cite": "112",
+                                "docTitle": "网络舆论研究 ",
+                                "engSent": "Firstly, adhere to“two true rules”: the one is to <b>insist</b> on disclosing truth based on the facts.",
+                                "url": "youdao"
+                            }
+                        }
+                    ],
+                    "num": 1
+                }
+            },
+            {
+                "entry": {
+                    "major": "艺术学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "坚持",
+                                "chnSent": "企业培训管理系统必须<b>坚持</b>“以人为本”这个中心，紧紧抓住“需求分析” 与“效果评估”这两个基本点。",
+                                "cite": "45",
+                                "docTitle": "我国企业培训管理系统研究 ",
+                                "engSent": "The system must <b>insist</b> on the core of foundation of people and grasp two basic points of analysis of demand and performance evaluation.",
+                                "url": "youdao"
+                            }
+                        }
+                    ],
+                    "num": 1
+                }
+            }
+        ]
+    },
+    "senior": {
+        "encryptedData": "H7xIFJHPOE_sWeG5xKnQXHqdV3jWfzkp4xK5kMsFXG_8BnuM_ZRM8NbpLddSa8TBpyOmga_fDQQE68X0MtGnpp5hcItHweEnL9LGOrhz1h5xO_UDmm7O-wtKpPh-oMPwNGU_kFL7vCwtYEmTjzWAJc_z5Whp_sv-3rizipvsQEtF2k4vRy0V6SUbHnh7QKEdj8mgv47FK8HUGmGYH6gXpsjsIfWx2GSuFrPddbvRzATN1Z73x4ZUMsPEHMMHBmGJ7ZgDr1yc0HRxU9TkPXUN1Uvgq-NfKwUjCu1kahdysXVObdZOaDfhcj2gpyBAUbBrV-afkN-JtfRl8IsCqM7luuHzFZwqt_UbMvg1KYa_zwXTywAAM1KjxETPjGCLHfb3MSSLKLCnuxabTR17vTlKCaB-JWTmtb9rtCl0TLHBiOuos6CbdzoIRiyD1QqbAbanzYY1h0GGnyQp3MqLmxLhRnY5DEeYZixAXCj1RaSZQ2qqnqJIUQ4ImS8YqmQHNQDByq0nSDPc3fwk5CchTjecKwbjRhOFF7LaPyM0aA4rU7tN6o3VP0E3_sBkix9Ps3hch1c7WQ91j3l1nfqpo4T-IMGh99Cap_xkI8tD3sNt5V2HNdRWjWJAUlKni7ZonJAoj8ufixrjrCRck0UKFCfxelSiCS6ZYsqyH4bBjwWYERA12Gv9RdU36KJocg42vFXPVqScK6yOeDWOm2TFViSwUJ9sP9rDaM591tuxhyiteHZQvrqGNtwUCXYftmCKrGQQajqbJZL2nym9adBI_Qe2mBwSFAPMKfNhqv_pl2JaLARohERdWpO0XK4CthT9tLeW3XI7RDZBfIAiiA9fRW7U9bAFN3gaTddEYGqpuYAaKsDEf5UU3zLhbr0peQt7YYZlwJseIUJXEBkuLt3_afEWVc1rdkaZ8si_NV5Kbnde0BydyNnnusY0_O3OdtkDixWX9Ewyeb81F8saw0gqC_OF2RKa_WIxMgrU4GZ_ERTwv1eNrhK1S1JIo9VM3ztH51SMpv81_R3KUk51fd8raLTOnDm_7YA8jFZGQbawHAdP4pczyJ7gh-K6_0XV_R62_aiOG_Os1c7-7TKybzqMQ9aP8-uBeEdt-izWEzPp7Gov0WXtD8GmSlBhG78-CHVUknirkinsdkcMBQLAo3rGuz5jnntLnmeRJzPZuGqx0Wa-tDhhA8Fo-WWhm4os5o-qi-v3mPWFrSPCkulsXYV-sOfYHkF61q2CU1zuIXl9-t_rtJf6-03cL1PfbmVBneOeA-64flWZD7NIQo4upLXSzthVOjRlCj_JL1WWAJdcR5mgKCCz0o-vFLmROuPG9lvX0AieEr_DHuICayVfL7F63zlGdNaLs363SU1szuJgUdwt8HbmwQDOpDU-NLI5tVMglRs6wC5wHsHtheV8VwBn4TANqxB5Of-Dzgbm987OYt7zEoAZj8xBCG57SKIvJxopsIK233YKaSTkrNX5oNqBRt3Am9iANyVH_D1GTQGkn6aBH24rlLOXh_yPoBKWTQ-U5V97qL0u8h4rGixvFuubYx0Ct9HdoqKQyCo40mlymYqKFtLLuUduqSS2dMcA5sHdEBOzK19g3nVT9jBWUzKQQNHZNgIsn_6PPycrxZ9n3vf-AbsdrrcrcKH2-UHGihaJPAq5WbiTH_HivUc4K4itQEKM4bhk28zc_PkJ3nAZmwEZL2wSMyFrlIRsK6H6vQiw2jjMe4Ll2DH_A5li7LZ_HHGjSMtrRtVPoH_LHrW3m5fKiAmcdHlrbYT8yJfpLiRslB0FFDMVaKiZNrclDMTFvQ2dIsxWmD3baNXF1o_ZKUZCsB5f1Qp4iuoDqwNqQ51hfJcfC0akWZfW_aIHVXY6dgupSIsoc2keECpgoQvujeryjT4HDfkA5KR3T8JQ1KTulOJc2ayRId69ViG8TmjpOzAw_6WtrgAdeO7lJDEmQw9SOR2AqNyMLZggI4AXcVhRtKamsi8Kx1ONkPbHQRzqZm3OsydWcnCK7W6KFL6Ev2EgTzAlg4gyjxOB6zvT8Uq3P3GSRzTtH9tsSEfEdORRiTQuSD5egb2oargbIPmXzqOVLXBcPc9jb9pBfjLQuv6rKPIUX1Z-pezQg8ZFciEf878I9Fkb3UFdmx4UX2UWC1NSNxthpCCqZ6a5V6XzXULygZBFlpRlqFj0FsCS3xrN4nQ8hcvjbDkIuvPPx1s1auWx1tUSjwyteHa-fpFSyoS21Sp-6g1krLQGkcw97pl_UIL40FdoQmi40UTFZuXjMas2GgxqS80Kbb5pJdLaCC6lBhOW4FBerlRP0VpJu4s0r0mJa09WDjQTKVO4N13ieZjSwGi28R_20SdfywTsob2nVnWacMxQMkrZgzqFR8sCKPhtoA4WjkotDLsrKLOf4CH7acFSflr1ZjineKwO6Yf_c-pcY1Ko0eZ1G7DjsihnjoWFAG_Y8VQBH_YZ2A7ZOK2opbA3LFT8Cgzgjoi7wFBjXhiLfuUaGM9WxoEld4QQNFOcfBomGv_cjIwq0qLBDw2G3cxG0ayM2XBaDKx7MH1LIgNr8JE2qz3--CK0uTRqX0lK-dUBRyt4IfWY4e3mwHIgxieAZ3kjnXfa0k9tWA1BwWaYOz_GAXLYi40UtIsAX7KVsdc9L2MPTsTEj2ANA_MCcX3JhSbkVOm6kycM6s-8wfoueni5MNkqaVkEPYPptALNchneDxst1NiaewZ4Je-WgkAcmMo-p7x02Tos6RrwEkJgzlTtz7ZdDArssx4QoYNxoVyfJohS8vPQ37Siy8uPqMqE2Gy4Iv8dGNMFt-155tMSAqq_P7n067CzI6OeRyCAfoBNEqTtd4k-WeiaChBFuYN8B13O-nyU_rvCG_M6ArA5Dfq_5V-53i8upn4X1l_nNiIkkgCFZht1JHjU1PwnjhpxmKBOwtrLBhEu_NjyaZilGIeWsS38ahtTU0XepyxLEn3lY_EkJyCW00RkH81CtxWU7foLu9DXNft0ypm2ZoioKYwagRvYCO_kAA7PJGq3OrbOpJxsucrfdkHXeP56T3OR2nncd7oym18jrwZP3b1BZ29qhk_w7muLsLubPZIGu-nT7bSioqjis8AoxjMgJKvcc3ccAwU7KuZpwP79r0uAEydSpGJhK1jUwT8tL9CcqMbr6NhL5ke9YSxbuiSE7tL5J6dnsm7k4U-mIUODYdM85ZA2zLMfpAd6gPlpJ7CC-freS-uYuQaS30U5rerU8fp8s_H8GH9NDJD1ZDXbG-1nMnusc7Dkugm09dkwfelVhNZ62z3TVPRuc5Fyl6iWfd4xAS7UjewKx8XNxkMhvLpgHpqpFomR1wCyW8QxFOTK9RTqZsbEup3u4gjIZ_dChQuilrLmT5HFzhfjHcczwX60lP3Nia3NmsGFNXkKS2UFPqGplnuSJuHn_LArk9nGsW9zaHITTCJqG76O8KhiCEiFQN85ecsNLI6_BWT2-_2h4x2J_UxlWLHQwOWotQYZk1MjTyGCvDr9uVZPZ1em15CtGeVn2X52Igcg2UGA-mhWcc8RprzDZUPBvi6m7fD7m0aYlV5KuAcF1e2_LAbsPFAc0hDeB-dnGML1pMiy3p5uq9haT7N1BNsClyit--XtGV2mgA47K6Ji-T459Okiuhw6IxqkrzVFsvRNk4Il7m_BBcik-DQ0-e_llfbnS9XuOZXWRgxMQhKUHd_7Dmcyom296NznyK-guLob28mTyxy6-YF2F7dhGLHfB49EsxpchVCC2V4IvOw_Xba_DxPS5QcDiMsaV8onCeCgF5tnn_jXe-s06BwRsGs4RqcV7tc9wuQkdtCqNSxE7-PKAg9EHdGNlR4naIwUzGUcf0GeB36CdGT6T7zMUGjVJDQt56PO18gyX1oJD86z4jRALN4SWtJ8wxbv9BIaq--NegM9CkENWLj2DbovZiJqDOKjvx4Neqsd_s2yNM_8jAeMZFe9pE2NLZo_hFILTNsLjxWh6gY7lRaToOZCPeGdCg4NuuCdsy5fStqJ_8cfxCgVFKFARJb_Q9tZowNbwmGTiFoynbJwwg==",
+        "source": {
+            "name": "《有道高中词典》"
+        }
+    },
+    "input": "insist",
+    "music_sents": {
+        "sents_data": [
+            {
+                "songName": "Operation Fake Waves",
+                "lyricTranslation": "如果你们仍执意继续斗争",
+                "singer": "塞壬唱片-MSR",
+                "coverImg": "https://ydlunacommon-cdn.nosdn.127.net/ff5ac692e04bceb2a467686aacfcbde1.jpg?imageView=&type=webp",
+                "supportCount": 25,
+                "lyric": "If you still <b>insist</b> to keep on fighting",
+                "link": "https://music.163.com/#/song?id=1998382834",
+                "lyricList": [
+                    {
+                        "duration": 3010,
+                        "lyricTranslation": "如果你们仍执意继续斗争",
+                        "lyric": "If you still <b>insist</b> to keep on fighting",
+                        "start": 0
+                    },
+                    {
+                        "duration": 3150,
+                        "lyricTranslation": "请记得在尝试之前 给这个世界一个吻别",
+                        "lyric": "Be sure to kiss the world goodbye before trying",
+                        "start": 3010
+                    }
+                ],
+                "id": "c3a5c7dcf9",
+                "songId": "E0275EA0F292D2AF4883013E86142691",
+                "decryptedSongId": "1998382834",
+                "playUrl": "https://dict.youdao.com/dictserver/sentencemusic/playUrl?redirectUrl=https%3A%2F%2Fydlunacommon-cdn.nosdn.127.net%2F63ab2cc7dc71802a3335b33175bcd0ff.mp3"
+            }
+        ],
+        "more": false,
+        "word": "insist"
+    },
+    "baike": {
+        "summarys": [
+            {
+                "summary": "发音 英 [ɪn'sɪst] 美 [ɪn'sɪst] 释义 vi. 坚持；坚持认为；强调(常与on，upon连用): I insist on his innocence. 我坚持认为他是无辜的。 to insist upon the importance of being punctual 强调准时的重要性 一定要，坚决要求；坚决主张(常与on， upon连用): He insists on being present. 他一定要出席。 He insists on it that I go with him. 他坚决要我和他一道去。 [古语]被放置(常与on， upon连用) [古语]不屈不挠，紧随不舍(常与in，on连用) vt. 坚持，坚持认为(常与that连用): I insist that he is innocent. 我坚持认为他是无罪的。 坚决要求；一定要： They insist that I stay there for supper. 他们坚决要求让我留下吃晚饭。 短语 insist on 坚持，坚决要求;督促，强调 insist upon 坚持… 例句 I insist that you go with me. 我坚持要你跟我一起去。 If you insist， I will comply with your request. 如果你坚持，我们会遵照你的要求。 We can insist all we like that what happens in the presence of closed timelikecurves be consistent. 我们可以坚持凭喜好认为，在封闭的时间型曲线中所出现的情况都是一致的。",
+                "key": "insist"
+            }
+        ],
+        "source": {
+            "name": "百度百科",
+            "url": ""
+        }
+    },
+    "meta": {
+        "input": "insist",
+        "guessLanguage": "eng",
+        "isHasSimpleDict": "1",
+        "le": "en",
+        "lang": "eng",
+        "dicts": [
+            "web_trans",
+            "oxfordAdvanceHtml",
+            "pic_dict",
+            "simple",
+            "phrs",
+            "oxford",
+            "wordElaboration",
+            "syno",
+            "collins",
+            "word_video",
+            "webster",
+            "discriminate",
+            "ec",
+            "ee",
+            "blng_sents_part",
+            "individual",
+            "collins_primary",
+            "rel_word",
+            "auth_sents_part",
+            "magic_words",
+            "media_sents_part",
+            "expand_ec",
+            "etym",
+            "special",
+            "senior",
+            "music_sents",
+            "baike",
+            "meta",
+            "oxfordAdvance"
+        ]
+    },
+    "le": "en",
+    "oxfordAdvance": {
+        "encryptedData": "oGaanzGEv4TFGNkgbPQfjud8s3YxqQChkIEIrFbM1cBkoR_IxYAHLcfcN_cP9MISOS7qNjMVQXscSv7jGAXCwKjaCpq4vnLrUhKDrPOlkqKkgl0HsDKAP55w46a4eNUCOyn5Zglw4MkzS_TAec2girDl9ZkS8Lm22dTXqmgAor2q-CriH66LuLFfMOACX-FKqkeZgm_R-luIFMB6me48Dlow3buiyfDpeRfjwndRd3NCX6JjKde8FhyDw9FIO4JsKicRplpR9pRYVG8WBawTZWquDV2Ej-WupgbpPhnK_2rLDAsKamQzNdiXpDdN557RSxvEc9EB4LLlDrbeqvSt46ZhER_MjseDbpxFnNEr3F4M9d6Q2PZZ-lcM66gD01_gYhvoMJTMdHxy2LXH918wwx7jFP8LT529j_vhxzFVGANJL0Ym-ViW5t8eTGGgcEHrDV58PexmdvP4u4oYXhWSxBsPbq6LBp1WSFQv34bAF33tlzoCrgVkz7M26syfn88wvHe5ZauJJ3ddKAiHZZ2IwZC0OvcdRdwPodc0tWV6t-Dq5i1gDsd00u_jxE2PHZBqIf-ag87mcuuGVkPqL2_9NXmI6O6qj46DUS02OAyMM723b_8z4uuiFR2J0qLxy92E-XPfjVvbswM3FAEJyvoD0qpj47zp09EQyzNxK0bOfQHyPEprt6cYvagJNQiSgC0F12_hfvmS75BGiaYEz9ua3QtWazyA0fAPPe4VpZl32FJjYfcnLiZ_z5y6-dDEZd6Pd46s1cN8-9paeWSMj-TAIXC6na3P87uudq8V2oD9Q-juDVZN6Q5ZrCxdbWAhQpyjFjeYeteQ9PUE_QPFN9PeuAysstWcIuKww4M-mSD06PJhRJhz4NVdfxI16xEubjxt-eWb_6_1XCNxFVENAL2JWvPFWF9G2SdzukwZo-DWcw0jeF_FVKO7YHOvlzVX41sDbli1n72C7RfrgtJYReZ92t-3ro4C_d6wXW2Mm-Gos0meX6HjdKgB9-AU3WyJ-JZal6BqG1FBI3Q7RwMd0OvHSTB8UIIMCpUJj_1L5MtxuLY7SsBplx0bKiDUkFvv3XCm5ceDxLaxA0DxqjymJfw05yYWi7y_xAXnYuh6s_5hsEnL-IlkO8MSGSZW-C7LPutD-j15M0LyOmHufiXYp2E-gWF8Gmh-b6LmkxK4lVB9nRqNrTOsxhINgV8udj5pXx82AABv8sJQJ5nsL-wWW0O1IDHq6BCWbT8PFPSXg0WZBeF69zFssZpYXIMQrAyLNjFeDdGobks_beV8Ys9GmoVoqAS_aKaA0eCwh-pMRG42z0-S_iUYJKzAPCQpPDRwfbRdcaTDHaQn5-X3BA0o24l0QJDRb4GMk0ORy3sHJ0gmiX9BnoFLsCL2q2rzp9Cu-F07m44GrqO3s-V92EadRPX0nFzZgl53uSuVGDXfnyyLrlz69RAvA5ONIkHZZ1KgTTxLPUgM13BbNF8p7-0a1tZlG1ejjIv2cBFNY0Wc2YiKeoYGtfetdNuAyFM_V4w66ufDkXAYShJte4_35DxoC7spTxcaBwDRbKqN7_LJDtt2JAIzC1Q_Tsme7-4hkP8dNOqiGE-_sRnKhBTejQq_LQeA2Rk7ueYeYrIdCCOJhzyJ0oh3iI2jJsWJxMfAR-FYIqwhcjffZ8d_vhCK68mrjBPR4ZMxucST8qi4rmGqBDsfuxnpOpzlsBqFgsjItu8Jz2cfeUDsi5TNffUBrZTPR6gF3LZ6FsJ6D9z2MANiXrTb2-ArtbsPrdsOubEBPcjdkdcLi1GgvDLxhsYVIdW9bEzwtQeZ-ATcP5-d9Cr388vU520TaD827D-yCkAWEH3Wsf4v_xmlilX0gjcpkL44LFpPjxX0zQt31-gpPpTkCO1SqoZsIvAJkR27vytLkwIJFjvazWjOSYxiwaH_YhKTPAtyl36jx59sLzfEacRKeCj5OqIJZg6q6mQbxZ4oVVv4Dipvrbdydn7zb-Nx1U3WF-isV6tLhtERBgNu2dTy8Zwy7rLAzBFKgUce2cjXJDp_86dWqWBF_E6DClUVBdquOmydzUhxlEWmtw5Y9kCUURGUmNCzW6tgILI7BlT1W8rMcILl3bv10BJu1TM8wT0e6N3xYm27qn6WDNTP4GALGjBr5cUekgWMxvX1QQ3V41TX7OffMLtuJUfJIz8J3jFPdtuqTUTzBnqCi3nnpOiW74piKScX904VO3p_mIuXgkqyYOqGIs29n2-B_2v6dFXJGQQsk9yyIkTCs9ISF3KPwKhFTMpGU5ZOhZuKvMBPKl9a9WQNdA78rJVrCSMNOC6R8XkfUbgp-IMN2FbXAQbQRTvrqpqJHvsJ3wU1sK1zwKO4ocHQRIqeOdiTwq5xZYPEP2FoUZp5PcFRr48QTlzTg32xPAyH051COKnVRjY65aRZjssbqwWm-kV5lD8UCb41y1NkjHvq1_iUsc1W_Wyz4fSKYC5P0wx1XkseOSqkHE96BA0ROBLprvjXx7jq4dljGf9W88E5ZMnMuwflEvE_hCsUDSuLb-jwn_OMvNwi0lBv5mGCHH2Dy5CqjVxSzipRWo7FLWhd5fPEc1Ua-F2wXe50q2ieIsDQa73uHHG9ktDzt4fsx9jCaLT1EsvdesBOqb-DwLMaamhOuZzHQI3y4MuMQyGT-lBejrqlMJFuA9Dq4UFNCIqA7PKfvWzL4EJHVuQ7skZ9fTXlCwAoaAakDOC9Q5FSqHZC5SOBPpjOIX1hhMrnzKd8_QeiHTfDsjCsKXa8BDu-aBjRBugawi12x-ArTPkQ2mOGjxp5VkDEhBODrEJ48XyssvsnModa_CVzruCiRrH6dzNZ7kBlWLmplK8Djeufo6VT-I_QSUek7YvQOY5GZ-4xPW4ZR9zpJodszXtnMc3EP4eav_57CwAieu6zXgB4dR8-bGTXyF46B6r9ubhbUcOd48nV4PHbfwThiS2LG2qUZB0np7cBMNG1CFZDCSezOntBf37e-hGlzt9vsmCKy4MU3C69Un3Q6FKcsjFX1sUnJ41kkOf3v25nGdN6H_-6QFX9U-UXKBcCd2oOnr6NIqkY_7W6hqXUtIichWligUzOXmAiWg3R1J9wYcO3Fg0LE3DQ2BLD939XI0NGGyXrXfM0cWsl2HTAuhrx9U3M36UTrFXibEi81hqlaQmLriVCe5s-WI_4wMgzj0QLx6sQ4Jbnsy_mTTaIy4UiOL_9Ai7OXxdovFOfD-dQL1VOfUnNoCFi4G4bB_n74pDBnZvKVmMgXJepQdSWqL7aiopGQbNjc4dE_DMmwqLn-SLaNCd9GNbMIwSeOAgGjBx1Rm8DNUkbzj2BEn-ANSA3CXKkDEGuiRl6wVTb0CiqXqgiMxd0IfObXlZ_SpmNLm3Ck8gD06f78CtteLxSy7CXX0W-Br7O11Mj-q_CQ83R874-1F97RWbtuTcxVtnGcL9_cOS88RTGgS3rPS2pk3V1j0nzVKS13FK-EO9cl5Qlx0qnT9MbnTufKg-_22lMxDIetliwsHsaqEt-prhpIXMV4EmwIypFd-c9DEnsRQ6R_LCq8hQshLx51wZP75mI0J89Mox4odXz60SG0bvxSJP9hVc0cFHtvKRuz1_kUyiSR2JWhLeOqpPba5ilv-iFfCtienzj2IY0od6A9ATiAuPbRWtHRqihzrwqdRa7xSu26H67L8KnIgvhjRH-wWT-HlgHIlpXgUIa7dr7KDeVVHsEQ2ETFX1w9HKDHVW5jD9X060mRPhY06CrHhGATmxjmDs4meT8cvHC-YEPh4pVnb0azR3gLVYHDekJ9smcxGLHVTXc0tWcqTI6pzjwJfAmKC7-tujwdE4OXTGXWPAbD3F5r7qFnWWl4EjKvkVISFYKVrO53crq7BHIXju3kUDS8oYpVy6RgCMeQAcUnKA0HYxDEFJs-Ewg2fWhz0iVEjjTdPjXtmjhqqdd3zEFhbJYJaG_WxY4giJsn4KGFEZ8aVnlV7K8vzLSj0a6x3-yeoL7X9Hzw--P_slGHmvpI46oi_F2WPsiDSJftoeY9BdRQHAiDhk4LPKn_UG_DY9mxSHOIkrhuFJdQqzZ0mkOAPGQmgIgPbeAyKR3aTr-qfrKCWsrn8G0RjUSmGnrVdS2nTW_uI-ONr3ROdnp6mQq0LMbKF3bPA-WS62Wj5Qt5QslGByWpz7GbOqOIBBQHJZQk7ODGUcC7LD82uXNACWYfLeoG-1oSse2hl3Fe21mwEhwKkg2Z2MNKO3r3WlRnmXVcBG582BAjhc7O4x1Ngg-mql6HkBHpp_jaxuOLfGV7vgsVCrmQBNsAc4iGI8uIp2vEkdgtLWqB98u6zxJH1R2EojyfrlyYPadI86oTfF8xIhOH8JYDrfe9XZa7kTk5Nkw3ZJQnzwyG1ZdEeTtOYOVnfI0htARCHconMPhKRGC6tdLdMyt9gMQtJnpCIy5e9btIGELoiqET4VmYCBCagD5PvA_DDr3FGDbsDtvi8HBbLre_2c1rOxaEA2-GJf9X0NhuvnNj885ZWQSnLzEoApqtSA8XntoNi-V3Sa9lEFADmeLdwHFoBmGkXPc8iuQt8OD_x-ko25Rd6Svgynh99gcwkdBIibJe67Q7XsoPmQemzbVI7hzBGmC5KbfTRRKQR3HBStgTJ0jSJZ992o0XFRxI8QWD34vqZQmMmjir8qatzJQZ1YP-tTB7PRtvJsk2tAqi3poo4Lt9YVUxdmv2SNh1OlabEpXWSpPo94izF10dSCprCOfZdE-fMYxvzcNo_DYB5X-PgFUgn4H8zCGqwZiHXG4Ah3Y67hp2aaMqeTPQQOm1pq4tTjqMEaeNfoxdm4AR1mJjGCt3F4-qNL3Pc5csIxiIG0-jSAQ_OK_KkZptcRHnn3nXZTnLAu4n9WUBnIJwGgWwJScEAXhQ6QIE4fumOT0phmXqJYstjgpJgQcYUX33FrudHK6w01buJ0mvMhFNszb8j4J5AX7nN_zpkXC-SSHpBxKCwCK"
+    }
+}

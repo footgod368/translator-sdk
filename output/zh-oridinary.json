@@ -1,0 +1,1119 @@
+{
+  "web_trans": {
+    "web-translation": [
+      {
+        "@same": "true",
+        "key": "普通的",
+        "trans": [
+          {
+            "summary": {
+              "line": [
+                "...simple,均为形容词，都能修饰chimpanzee。根据下文，此黑猩猩在接受驯化，已经能做人能做的许多事，从而便可确定，她不再是<b>普通的</b>(ordinary)黑猩猩了。如果不前后参照，去辨别四个词的用法，是无法选出正确答案的。"
+              ]
+            },
+            "cls": {
+              "cl": [
+                "科技"
+              ]
+            },
+            "value": "ordinary",
+            "support": 2740,
+            "url": ""
+          },
+          {
+            "summary": {
+              "line": [
+                "...e false by changing something：篡改；改造 familiar generally know, seen, or experienced; <b>common</b>：熟悉的；常见的；<b>普通的</b> familiarity thorough knowledge (of)：通晓；精通 .."
+              ]
+            },
+            "value": "common",
+            "support": 968,
+            "url": ""
+          },
+          {
+            "summary": {
+              "line": [
+                "外观共分三种：PLAIN（<b>普通的</b>）,BUTTON（按键型的）,HYPERLINK（带下划线的） 对于外观的提取，我们可以使"
+              ]
+            },
+            "value": "plain",
+            "support": 750,
+            "url": ""
+          },
+          {
+            "summary": {
+              "line": [
+                "... convention 习俗，惯例；公约，会议 <b>conventional</b> <b>普通的</b>，习惯的，常规的，因循守旧的 converge （在一点上）会合，互相靠拢，聚集，集中 ..."
+              ]
+            },
+            "value": "conventional",
+            "support": 540,
+            "url": ""
+          }
+        ]
+      },
+      {
+        "key": "普通的人",
+        "trans": [
+          {
+            "value": "Tom Dick and Harry"
+          },
+          {
+            "value": "Pu Tong De Ren-kelvin Tan"
+          },
+          {
+            "value": "Ordinary people"
+          }
+        ]
+      },
+      {
+        "key": "普通的食品",
+        "trans": [
+          {
+            "value": "Plain Food"
+          }
+        ]
+      },
+      {
+        "key": "不普通的",
+        "trans": [
+          {
+            "value": "uncommon"
+          },
+          {
+            "value": "Not common"
+          },
+          {
+            "value": "unusual"
+          },
+          {
+            "value": "remarkable"
+          }
+        ]
+      },
+      {
+        "key": "普通的村舍",
+        "trans": [
+          {
+            "value": "Plain Cottage"
+          }
+        ]
+      },
+      {
+        "key": "普通的世界",
+        "trans": [
+          {
+            "value": "Ordinary World"
+          }
+        ]
+      },
+      {
+        "key": "普通的宝石",
+        "trans": [
+          {
+            "value": "Ember"
+          }
+        ]
+      },
+      {
+        "key": "很普通的",
+        "trans": [
+          {
+            "value": "old stuff"
+          },
+          {
+            "value": "very ordinary"
+          },
+          {
+            "value": "Very common"
+          }
+        ]
+      },
+      {
+        "key": "不普通的毯子",
+        "trans": [
+          {
+            "value": "No Ordinary Blanket"
+          },
+          {
+            "value": "No Ordinary Bla"
+          }
+        ]
+      },
+      {
+        "key": "普通的东西",
+        "trans": [
+          {
+            "value": "commonplace"
+          },
+          {
+            "value": "ordinary things"
+          }
+        ]
+      }
+    ]
+  },
+  "special": {
+    "summary": {
+      "sources": {
+        "source": {
+          "site": "NoteExpress",
+          "url": "https://dict.youdao.com"
+        }
+      },
+      "text": "以上统计来源于2,447,534篇论文数据，部分数据来源于"
+    },
+    "co-add": "https://dict.youdao.com",
+    "total": "2,447,543",
+    "entries": [
+      {
+        "entry": {
+          "major": "经济学",
+          "trs": [
+            {
+              "tr": {
+                "nat": "ordinary",
+                "cite": "0"
+              }
+            }
+          ],
+          "num": 1
+        }
+      },
+      {
+        "entry": {
+          "major": "交通运输工程",
+          "trs": [
+            {
+              "tr": {
+                "nat": "ordinary",
+                "cite": "0"
+              }
+            }
+          ],
+          "num": 1
+        }
+      },
+      {
+        "entry": {
+          "major": "生物学",
+          "trs": [
+            {
+              "tr": {
+                "nat": "common",
+                "cite": "0"
+              }
+            }
+          ],
+          "num": 1
+        }
+      }
+    ]
+  },
+  "blng_sents_part": {
+    "sentence-count": 6,
+    "sentence-pair": [
+      {
+        "sentence": "温特斯是一个相当普通的姓。",
+        "sentence-translation-speech": "Winters+is+a+common+enough+surname.&le=eng",
+        "sentence-eng": "温特斯是一个相当<b>普通</b><b>的</b>姓。",
+        "sentence-translation": "Winters is a common enough surname.",
+        "speech-size": "9kb",
+        "aligned-words": {
+          "src": {
+            "chars": [
+              {
+                "@s": "1",
+                "@e": "4",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "0"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "0"
+                    }
+                  ]
+                },
+                "@id": "0"
+              },
+              {
+                "@s": "4",
+                "@e": "5",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "1"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "1"
+                    }
+                  ]
+                },
+                "@id": "1"
+              },
+              {
+                "@s": "5",
+                "@e": "7",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "2"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "2"
+                    }
+                  ]
+                },
+                "@id": "2"
+              },
+              {
+                "@s": "7",
+                "@e": "11",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "3"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "3"
+                    }
+                  ]
+                },
+                "@id": "3"
+              },
+              {
+                "@s": "12",
+                "@e": "13",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "4"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "4"
+                    }
+                  ]
+                },
+                "@id": "4"
+              }
+            ]
+          },
+          "tran": {
+            "chars": [
+              {
+                "@s": "1",
+                "@e": "8",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "0"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "0"
+                    }
+                  ]
+                },
+                "@id": "0"
+              },
+              {
+                "@s": "9",
+                "@e": "11",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "1"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "1"
+                    }
+                  ]
+                },
+                "@id": "1"
+              },
+              {
+                "@s": "12",
+                "@e": "13",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "2"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "2"
+                    }
+                  ]
+                },
+                "@id": "2"
+              },
+              {
+                "@s": "14",
+                "@e": "20",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "3"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "3"
+                    }
+                  ]
+                },
+                "@id": "3"
+              },
+              {
+                "@s": "21",
+                "@e": "35",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "4"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "4"
+                    }
+                  ]
+                },
+                "@id": "4"
+              }
+            ]
+          }
+        },
+        "source": "《柯林斯英汉双解大词典》",
+        "url": "https://《柯林斯英汉双解大词典》/"
+      },
+      {
+        "sentence": "它的热量比普通的冰淇淋少25卡路里。",
+        "sentence-translation-speech": "It+has+25+calories+less+than+ordinary+ice+cream.&le=eng",
+        "sentence-eng": "它<b>的</b>热量比<b>普通</b><b>的</b>冰淇淋少25卡路里。",
+        "sentence-translation": "It has 25 calories less than ordinary ice cream.",
+        "speech-size": "13kb",
+        "aligned-words": {
+          "src": {
+            "chars": [
+              {
+                "@s": "1",
+                "@e": "2",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "0"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "0"
+                    }
+                  ]
+                },
+                "@id": "0"
+              },
+              {
+                "@s": "3",
+                "@e": "5",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "1"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "2"
+                    }
+                  ]
+                },
+                "@id": "1"
+              },
+              {
+                "@s": "5",
+                "@e": "6",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "2"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "4"
+                    }
+                  ]
+                },
+                "@id": "2"
+              },
+              {
+                "@s": "6",
+                "@e": "8",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "3"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "5"
+                    }
+                  ]
+                },
+                "@id": "3"
+              },
+              {
+                "@s": "9",
+                "@e": "12",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "4"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "6"
+                    }
+                  ]
+                },
+                "@id": "4"
+              },
+              {
+                "@s": "12",
+                "@e": "13",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "5"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "3"
+                    }
+                  ]
+                },
+                "@id": "5"
+              },
+              {
+                "@s": "13",
+                "@e": "15",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "6"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "1"
+                    }
+                  ]
+                },
+                "@id": "6"
+              }
+            ]
+          },
+          "tran": {
+            "chars": [
+              {
+                "@s": "1",
+                "@e": "3",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "0"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "0"
+                    }
+                  ]
+                },
+                "@id": "0"
+              },
+              {
+                "@s": "8",
+                "@e": "10",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "6"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "1"
+                    }
+                  ]
+                },
+                "@id": "1"
+              },
+              {
+                "@s": "11",
+                "@e": "19",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "1"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "2"
+                    }
+                  ]
+                },
+                "@id": "2"
+              },
+              {
+                "@s": "20",
+                "@e": "24",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "5"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "3"
+                    }
+                  ]
+                },
+                "@id": "3"
+              },
+              {
+                "@s": "25",
+                "@e": "29",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "2"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "4"
+                    }
+                  ]
+                },
+                "@id": "4"
+              },
+              {
+                "@s": "30",
+                "@e": "38",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "3"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "5"
+                    }
+                  ]
+                },
+                "@id": "5"
+              },
+              {
+                "@s": "39",
+                "@e": "48",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "4"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "6"
+                    }
+                  ]
+                },
+                "@id": "6"
+              }
+            ]
+          }
+        },
+        "source": "《柯林斯英汉双解大词典》",
+        "url": "https://《柯林斯英汉双解大词典》/"
+      },
+      {
+        "sentence": "你要普通的还是低热量的可乐？",
+        "sentence-translation-speech": "Do+you+want+regular+or+diet+cola%3F&le=eng",
+        "sentence-eng": "你要<b>普通</b><b>的</b>还是低热量的可乐？",
+        "sentence-translation": "Do you want regular or diet cola?",
+        "speech-size": "8kb",
+        "aligned-words": {
+          "src": {
+            "chars": [
+              {
+                "@s": "1",
+                "@e": "2",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "0"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "0"
+                    }
+                  ]
+                },
+                "@id": "0"
+              },
+              {
+                "@s": "2",
+                "@e": "3",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "1"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "1"
+                    }
+                  ]
+                },
+                "@id": "1"
+              },
+              {
+                "@s": "3",
+                "@e": "6",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "2"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "2"
+                    }
+                  ]
+                },
+                "@id": "2"
+              },
+              {
+                "@s": "6",
+                "@e": "8",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "3"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "3"
+                    }
+                  ]
+                },
+                "@id": "3"
+              },
+              {
+                "@s": "9",
+                "@e": "11",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "4"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "4"
+                    }
+                  ]
+                },
+                "@id": "4"
+              }
+            ]
+          },
+          "tran": {
+            "chars": [
+              {
+                "@s": "1",
+                "@e": "7",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "0"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "0"
+                    }
+                  ]
+                },
+                "@id": "0"
+              },
+              {
+                "@s": "8",
+                "@e": "12",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "1"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "1"
+                    }
+                  ]
+                },
+                "@id": "1"
+              },
+              {
+                "@s": "13",
+                "@e": "20",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "2"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "2"
+                    }
+                  ]
+                },
+                "@id": "2"
+              },
+              {
+                "@s": "21",
+                "@e": "23",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "3"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "3"
+                    }
+                  ]
+                },
+                "@id": "3"
+              },
+              {
+                "@s": "24",
+                "@e": "33",
+                "aligns": {
+                  "sc": [
+                    {
+                      "@id": "4"
+                    }
+                  ],
+                  "tc": [
+                    {
+                      "@id": "4"
+                    }
+                  ]
+                },
+                "@id": "4"
+              }
+            ]
+          }
+        },
+        "source": "《牛津词典》",
+        "url": "https://《牛津词典》/"
+      }
+    ],
+    "more": "blng_sents",
+    "trs-classify": [
+      {
+        "proportion": "100%",
+        "tr": "全部"
+      },
+      {
+        "proportion": "61.3%",
+        "tr": "plain"
+      },
+      {
+        "proportion": "12.9%",
+        "tr": "run-of-the-mill"
+      },
+      {
+        "proportion": "9.7%",
+        "tr": "common"
+      },
+      {
+        "proportion": "9.7%",
+        "tr": "ordinary"
+      },
+      {
+        "proportion": "6.5%",
+        "tr": "regular"
+      }
+    ]
+  },
+  "input": "普通的",
+  "ce": {
+    "source": {
+      "name": "有道词典",
+      "url": "https://dict.youdao.com"
+    },
+    "word": [
+      {
+        "trs": [
+          {
+            "tr": [
+              {
+                "l": {
+                  "pos": "adj.",
+                  "i": [
+                    "",
+                    {
+                      "#text": "ordinary",
+                      "@action": "link",
+                      "@href": "app:ds:ordinary"
+                    }
+                  ],
+                  "#tran": "普通的，平常的；平淡无奇的，平庸的；（尤指法官、主教）常任的，本身有权的；常见的人（或事物）（the ordinary）；<英>常任法官；管区长，教区长（the Ordinary）；（罗马天主教）常规弥撒（Ordinary）；礼拜式规程书典（Ordinary）；（纹章）普通图记；普通股（ordinary share 的简称）；<美>（前轮大后轮小的）老式自行车；"
+                }
+              }
+            ]
+          },
+          {
+            "tr": [
+              {
+                "l": {
+                  "pos": "adj.",
+                  "i": [
+                    "",
+                    {
+                      "#text": "plain",
+                      "@action": "link",
+                      "@href": "app:ds:plain"
+                    }
+                  ],
+                  "#tran": "无装饰的，朴素的；单色的，无花纹的；单纯的，不掺杂的；显而易见的；（书面或口头用法）表达清楚的；直截了当的，坦率的；相貌平平的；普通的；直呼其名的；完全的；（编织）平针的；完全地，简直；明白地，不含糊地；（大）平原；（编织的）平针；朴实无华的东西；【名】 （Plain）（英）普莱恩，（法）普兰（人名）；"
+                }
+              }
+            ]
+          },
+          {
+            "tr": [
+              {
+                "l": {
+                  "pos": "adj.",
+                  "i": [
+                    "",
+                    {
+                      "#text": "common",
+                      "@action": "link",
+                      "@href": "app:ds:common"
+                    }
+                  ],
+                  "#tran": "共同的，共享的；常见的，普遍的，一般的；普通的，平凡的；出于礼貌的，起码的；粗俗的，庸俗的；公共用地，公地；校园公共食堂；<英，非正式>常识；（基督教教会适用于各种场合的）普通礼拜；平民；"
+                }
+              }
+            ]
+          },
+          {
+            "tr": [
+              {
+                "l": {
+                  "pos": "adj.",
+                  "i": [
+                    "",
+                    {
+                      "#text": "usual",
+                      "@action": "link",
+                      "@href": "app:ds:usual"
+                    }
+                  ],
+                  "#tran": "通常的，惯常的；常事（the usual）；<非正式>常喝的饮料（尤指酒）（the usual）；"
+                }
+              }
+            ]
+          },
+          {
+            "tr": [
+              {
+                "l": {
+                  "pos": "adj.",
+                  "i": [
+                    "",
+                    {
+                      "#text": "general",
+                      "@action": "link",
+                      "@href": "app:ds:general"
+                    }
+                  ],
+                  "#tran": "总体的，普遍的；一般的，常规的；大致的，大概的；综合的，广泛的；首席的，总管的；上将，将军；半军事化管理的宗教组织（如耶稣会修士、多明我会修士或救世军）的领袖；<古>大众，公众；【名】 （General）（英）杰纳勒尔（人名）；"
+                }
+              }
+            ]
+          }
+        ],
+        "return-phrase": {
+          "l": {
+            "i": "普通的"
+          }
+        }
+      }
+    ]
+  },
+  "meta": {
+    "input": "普通的",
+    "guessLanguage": "zh",
+    "isHasSimpleDict": "1",
+    "le": "en",
+    "lang": "eng",
+    "dicts": [
+      "web_trans",
+      "special",
+      "blng_sents_part",
+      "ce",
+      "meta",
+      "simple",
+      "discriminate",
+      "media_sents_part"
+    ]
+  },
+  "le": "en",
+  "simple": {
+    "query": "普通的",
+    "word": [
+      {
+        "return-phrase": "普通的"
+      }
+    ]
+  },
+  "discriminate": {
+    "data": [
+      {
+        "source": "http://wenku.baidu.com/view/40c2bfec81c758f5f61f671b.html",
+        "usages": [
+          {
+            "headword": "usual",
+            "usage": "指常见常闻和常做的事或举动，强调惯常性。"
+          },
+          {
+            "headword": "ordinary",
+            "usage": "用于物，指每天发生，十分平淡无奇；用于人，指无特别之处，很一般。"
+          },
+          {
+            "headword": "common",
+            "usage": "多用于指物，侧重很常见，不稀奇。"
+          },
+          {
+            "headword": "popular",
+            "usage": "指适应大众爱好、需要，为大家所公认或接受。"
+          },
+          {
+            "headword": "universal",
+            "usage": "与general同义，但语气较强，侧重对每个人或事物都适用，根本没有例外。"
+          },
+          {
+            "headword": "commonplace",
+            "usage": "强调缺少新意。"
+          },
+          {
+            "headword": "general",
+            "usage": "语气强于common，侧重大多如此，很少有例外情况。"
+          }
+        ],
+        "headwords": [
+          "usual",
+          "ordinary",
+          "common",
+          "popular",
+          "universal",
+          "commonplace",
+          "general"
+        ],
+        "tran": "普通的，普遍的"
+      }
+    ],
+    "return-phrase": "普通的"
+  },
+  "media_sents_part": {
+    "query": "普通的",
+    "sent": [
+      {
+        "@mediatype": "video",
+        "snippets": {
+          "snippet": [
+            {
+              "sourceUrl": "youdao",
+              "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-1905032759724246566&auto=true",
+              "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+              "imageUrl": "http://dict.youdao.com/pureimage?docid=-1905032759724246566",
+              "name": "MIT的时尚品味",
+              "source": "SpeakingMax英语口语达人"
+            }
+          ]
+        },
+        "chn": "所以，我的本科生活就是学习，训练，和朋友们一块放松，很<b>普通的</b>学生生活。<br>",
+        "eng": "So mostly it's just work and practice and a lot of fun with my friends, but it's pretty normal.<br>"
+      },
+      {
+        "@mediatype": "video",
+        "snippets": {
+          "snippet": [
+            {
+              "sourceUrl": "youdao",
+              "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-4969581792949468411&auto=true",
+              "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+              "imageUrl": "http://dict.youdao.com/pureimage?docid=-4969581792949468411",
+              "name": "麻省理工公开课",
+              "source": "媒体、教育、市场课程节选"
+            }
+          ]
+        },
+        "chn": "在<b>普通的</b>讲座-背诵式课堂,学生的出勤率，通常是,即使是最好的讲座也如此。<br>",
+        "eng": "The students are engaged in the lecture-station format, 50% you would typically have 50% attendance even with the best lecture.<br>"
+      },
+      {
+        "@mediatype": "video",
+        "snippets": {
+          "snippet": [
+            {
+              "sourceUrl": "youdao",
+              "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=4957185647043005673&auto=true",
+              "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+              "imageUrl": "http://dict.youdao.com/pureimage?docid=4957185647043005673",
+              "name": "耶鲁公开课",
+              "source": "弥尔顿课程节选"
+            }
+          ]
+        },
+        "chn": "和许多同代的人一样，弥尔顿，写一本<b>普通的</b>书，正如你所想象的，他所写那本书大部分是拉丁文。<br>",
+        "eng": "Milton, like so many of his contemporaries, kept a commonplace book and, as you can imagine, he kept it for the most part in Latin.<br>"
+      }
+    ]
+  },
+  "lang": "eng"
+}

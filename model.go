@@ -141,7 +141,7 @@ type rawYouDaoResponse struct {
 			Usphone      string        `json:"usphone"`
 			Ukphone      string        `json:"ukphone"`
 			Ukspeech     string        `json:"ukspeech"`
-			Trs          []Translation `json:"trs"`
+			Trs          []translation `json:"trs"`
 			Wfs          []wordFrom    `json:"wfs"`
 			ReturnPhrase struct {
 				L struct {
@@ -445,7 +445,7 @@ type rawYouDaoResponse struct {
 	} `json:"oxfordAdvance"`
 }
 
-type Translation struct {
+type translation struct {
 	Tr []struct {
 		L struct {
 			I []string `json:"i"`

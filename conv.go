@@ -15,7 +15,7 @@ func convYouDaoResp(youDaoResp *rawYouDaoResponse) (*TranslateResponse, error) {
 	return &TranslateResponse{
 		Ukphone:         wordData.Ukphone,
 		Usphone:         wordData.Usphone,
-		Translations:    gslice.Map(wordData.Trs, func(tr Translation) string { return tr.Tr[0].L.I[0] }),
+		Translations:    gslice.Map(wordData.Trs, func(tr translation) string { return tr.Tr[0].L.I[0] }),
 		WebTranslations: convWebTranslations(youDaoResp.WebTrans.WebTranslation),
 		WordForms:       gslice.Map(wordData.Wfs, func(wf wordFrom) string { return wf.Wf.Name + wf.Wf.Value }),
 		Etymologies: gslice.Map(youDaoResp.Etym.Etyms.Zh, func(etymology etymologyZh) *Etymology {

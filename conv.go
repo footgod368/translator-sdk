@@ -24,6 +24,7 @@ func convYouDaoResp(youDaoResp *rawYouDaoResponse) (*TranslateResponse, error) {
 		EgSentences: gslice.Map(youDaoResp.BlngSentsPart.SentencePair, func(sentencePair egSentencePair) *EGSentence {
 			return &EGSentence{Sentence: sentencePair.Sentence, Translation: sentencePair.SentenceTranslation}
 		}),
+		Discrimination: convDiscrimination(youDaoResp),
 	}, nil
 }
 
@@ -35,6 +36,16 @@ func convWebTranslations(webTranslations []webTranslation) []string {
 		}
 		for _, trans := range webTranslation.Trans {
 			results = append(results, trans.Value)
+		}
+	}
+	return results
+}
+
+func convDiscrimination(youDaoResp *rawYouDaoResponse) []DiscriminateUsage {
+	var results []DiscriminateUsage
+	for _, data := range youDaoResp.Discriminate.Data {
+		for _, usage := range data.Usages {
+			results = append(results, DiscriminateUsage{Headword: usage.Headword, Usage: usage.Usage})
 		}
 	}
 	return results

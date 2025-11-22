@@ -525,13 +525,14 @@ type egSentencePair struct {
 }
 
 type TranslateResponse struct {
-	Ukphone         string        `json:"ukphone"`
-	Usphone         string        `json:"usphone"`
-	Translations    []string      `json:"translations"`
-	WebTranslations []string      `json:"web_translations"`
-	WordForms       []string      `json:"word_forms"`
-	Etymologies     []*Etymology  `json:"etymologies"`
-	EgSentences     []*EGSentence `json:"eg_sentences"`
+	Ukphone         string              `json:"ukphone"`
+	Usphone         string              `json:"usphone"`
+	Translations    []string            `json:"translations"`
+	WebTranslations []string            `json:"web_translations"`
+	WordForms       []string            `json:"word_forms"`
+	Etymologies     []*Etymology        `json:"etymologies"`
+	EgSentences     []*EGSentence       `json:"eg_sentences"`
+	Discrimination  []DiscriminateUsage `json:"discrimination"`
 }
 
 type Etymology struct {
@@ -542,4 +543,9 @@ type Etymology struct {
 type EGSentence struct {
 	Sentence    string `json:"sentence"`
 	Translation string `json:"translation"`
+}
+
+type DiscriminateUsage struct {
+	Headword string `json:"headword"`
+	Usage    string `json:"usage"`
 }

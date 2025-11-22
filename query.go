@@ -5,7 +5,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/footgod368/translator-sdk/utils"
-	"github.com/sirupsen/logrus"
 	"io"
 	"net/http"
 )
@@ -29,7 +28,7 @@ func Query(ctx context.Context, text string) (*TranslateResponse, error) {
 	if err = json.Unmarshal(body, youDaoResponse); err != nil {
 		return nil, err
 	}
-	logrus.Debugln(utils.MarshalJSONToString(youDaoResponse))
+	utils.Logger.Debugf("youDaoResponse is %s:", utils.MarshalJSONToString(youDaoResponse))
 	translateResponse, err := convYouDaoResp(youDaoResponse)
 	if err != nil {
 		return nil, err

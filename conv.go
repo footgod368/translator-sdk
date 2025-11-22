@@ -42,11 +42,17 @@ func convWebTranslations(webTranslations []webTranslation) []string {
 }
 
 func convDiscrimination(youDaoResp *rawYouDaoResponse) []DiscriminateUsage {
-	var results []DiscriminateUsage
-	for _, data := range youDaoResp.Discriminate.Data {
-		for _, usage := range data.Usages {
-			results = append(results, DiscriminateUsage{Headword: usage.Headword, Usage: usage.Usage})
+	var maxHeadwords, maxHeadwordsIndex int32
+	for i, data := range youDaoResp.Discriminate.Data {
+		if int32(len(data.Headwords)) > maxHeadwords {
+			maxHeadwords = int32(len(data.Headwords))
+			maxHeadwordsIndex = int32(i)
 		}
+	}
+
+	var results []DiscriminateUsage
+	for _, usage := range youDaoResp.Discriminate.Data[maxHeadwordsIndex].Usages {
+		results = append(results, DiscriminateUsage{Headword: usage.Headword, Usage: usage.Usage})
 	}
 	return results
 }

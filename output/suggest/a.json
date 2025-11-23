@@ -1,0 +1,54 @@
+{
+  "data": {
+    "entries": [
+      {
+        "entry": "a",
+        "explain": "art. 一；任一；每一"
+      },
+      {
+        "entry": "and",
+        "explain": "conj. 和，与；就；而且；但是；然后; n. （And）人名；（土、瑞典）安德"
+      },
+      {
+        "entry": "A",
+        "explain": "n. 英语字母表的第1个字母；A音；A类；干线公路；最高收入群体；第一列；第一已知量；表层土壤；A型..."
+      },
+      {
+        "entry": "as",
+        "explain": "prep. 作为；以……身份；当作；像，如同；当……时; adv. （程度或数量上）同样，一样；例如..."
+      },
+      {
+        "entry": "an",
+        "explain": "det. 一个（用于元音前）; art. 一（在元音音素前）"
+      },
+      {
+        "entry": "at",
+        "explain": "prep. 在（表示存在或出现的地点、场所、位置、空间）；在……岁时；在……远；以（某种价格、速度等..."
+      },
+      {
+        "entry": "are",
+        "explain": "v. 是（be 的第二人称单复数现在式）; n. 公亩; n. （Are）人名；（意、西、芬）阿雷"
+      },
+      {
+        "entry": "aa",
+        "explain": "abbr. 汽车协会（Automobile Association）；嗜酒者互诫协会（Alcohol..."
+      },
+      {
+        "entry": "available",
+        "explain": "adj. 可用的，可获得的；有空的，有闲暇的；未婚的，单身的"
+      },
+      {
+        "entry": "am",
+        "explain": "v. 是（be 的第一人称单数现在时）; abbr. 上午（同 a.m.）; abbr. （AM）调..."
+      }
+    ],
+    "language": "eng",
+    "query": "a",
+    "type": "dict"
+  },
+  "result": {
+    "code": 200,
+    "msg": "success"
+  }
+}
+

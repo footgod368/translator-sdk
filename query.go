@@ -4,9 +4,10 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/footgod368/translator-sdk/utils"
 	"io"
 	"net/http"
+
+	"github.com/footgod368/translator-sdk/utils"
 )
 
 func Query(ctx context.Context, text string) (*TranslateResponse, error) {

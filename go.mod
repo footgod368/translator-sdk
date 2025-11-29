@@ -1,6 +1,6 @@
 module github.com/footgod368/translator-sdk
 
-go 1.24.10
+go 1.19
 
 require (
 	github.com/bytedance/gg v1.1.0
